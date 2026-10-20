@@ -1,0 +1,16 @@
+﻿12:46:36 Старт. Каталог: C:\l1bot\rida-art.ru-backup  refresh=False
+12:46:36 [1] Метаданные: robots, sitemap, 404, редиректы, TLS
+12:46:38     sitemap: 116 URL
+12:46:38 [2] Страницы: sitemap + обход внутренних ссылок
+12:46:38     найдена страница вне sitemap: https://rida-art.ru/returns
+12:46:38     ВНИМАНИЕ: https://rida-art.ru/action отдаёт файл из одних нулевых байтов (33944 байт)
+12:46:38 [3] Ресурсы: картинки, CSS, шрифты
+12:46:38     скачиваю 334 ресурсов...
+12:46:38     скачиваю 5 ресурсов...
+12:46:38     ресурсов: 339, ошибок: 0
+12:46:38 [4] API: /api/v3/products/blocks
+12:46:39     товаров из API: 92 из 92; вариантов: 24; отсутствуют: []
+12:46:39 [5] Структурированный экспорт
+12:46:40 [6] Проверка полноты
+12:46:40 Готово за 4 c. Файлов: 680, 61.0 МБ
+12:46:40 ИТОГ ПРОВЕРКИ: {"sitemap_urls": 116, "pages_fetched_ok": 116, "pages_failed": 1, "pages_outside_sitemap": 1, "pages_corrupt_all_nul": 1, "broken_internal_links": 1, "catalogs": 14, "assets_referenced": 339, "assets_ok": 339, "assets_failed": 0, "assets_missing_on_disk": 0, "products_total": 92, "products_without_page": 0, "products_without_images": 3, "products_missing_in_api": 0, "products_hidden": 0, "products_with_variants": 7, "products_not_listed_in_any_catalog": 6, "product_images_missing_on_disk": 0, "goods_images_not_linked_to_any_product": 0, "html_vs_api_mismatches": 0, "placeholder_descriptions": 3, "empty_descriptions": 72, "failures": 1}

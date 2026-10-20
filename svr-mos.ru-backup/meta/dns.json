@@ -1,0 +1,30 @@
+﻿{
+    "svr-mos.ru A":  [
+                         "85.119.149.37"
+                     ],
+    "svr-mos.ru MX":  [
+                          "20 mx2.beget.com",
+                          "10 mx1.beget.com"
+                      ],
+    "svr-mos.ru TXT":  [
+                           "v=spf1 redirect=beget.com"
+                       ],
+    "svr-mos.ru NS":  [
+                          "ns1.beget.pro",
+                          "ns2.beget.pro",
+                          "ns2.beget.com",
+                          "ns1.beget.ru",
+                          "ns1.beget.com",
+                          "ns2.beget.ru"
+                      ],
+    "www.svr-mos.ru A":  [
+                             "87.236.19.9"
+                         ],
+    "www.svr-mos.ru MX":  [
+                              "20 mx2.beget.com",
+                              "10 mx1.beget.com"
+                          ],
+    "www.svr-mos.ru TXT":  [
+                               "v=spf1 redirect=beget.com"
+                           ]
+}

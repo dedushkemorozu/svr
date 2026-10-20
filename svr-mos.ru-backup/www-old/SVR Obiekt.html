@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>SVR Obiekt</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+   BODY {
+    background-image:url(Background/Plan1.png);/* фон картинка*/
+    background-size: cover; /* фоновая картинка на весь экран */ 
+    font:bold 15px Tahoma, sans-serif;
+    
+    
+    }
+  </style>
+  <style>
+  .btn {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #fff; /* Белый */
+    background-size: 500%;
+    color: rgb(211,146,84); /* Оранжевый цвет текста*/
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:10px;
+	top:230px;
+   text-align: center;
+   
+   box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+    }
+    
+  
+  
+.btn1 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(211,146,84); /* Оранжевый */
+    background-size: 500%;
+    color: #fff; /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:210px;
+	top:230px;
+   text-align: center;
+   
+   box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+    }
+      .btn2 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(211,146,84); /* Оранжевый */
+    background-size: 500%;
+    color: #fff; /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:410px;
+	top:230px;
+   text-align: center;
+   
+   box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+}
+ .btn3 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(211,146,84); /* Оранжевый */
+    background-size: 500%;
+    color: #fff; /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:710px;
+	top:230px;
+   text-align: center;
+   
+   box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+}
+
+.btn4 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(211,146,84); /* Оранжевый */
+    background-size: 500%;
+    color: #fff; /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:1050px;
+	top:230px;
+   text-align: center;
+    
+ box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+} 
+
+ .btn:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+  
+} 
+  
+ 
+.btn1:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn1:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+  
+}
+.btn2:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn2:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+  
+}
+  .btn3:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn3:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+  
+}
+  .btn4:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn4:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+ }
+  
+  .volume-text {
+    font:bold 50px Tahoma, sans-serif;
+    color: #089dcb;
+    text-shadow: 2px 2px 1px #333, -1px -1px 0 #0ff;
+}
+span {
+  display: inline-block;
+  transform: translate(14em, 6em);
+  color: blur;
+  font:bold 15px Arial, sans-serif;
+
+ 
+  
+  
+  </style> 
+ </head>
+ <body>
+ 
+  <style> 
+  .menu1 a {
+    color: #ffa; /* Цвет ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+    position:absolute;
+	left:250px;
+	top:70px;
+   }
+   .menu2 a {
+    color: #ffa; /* Цвет ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+    position:absolute;
+	left:500px;
+	top:70px
+	 }
+	.menu3 a {
+    color: #ffa; /* Цвет ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+    position:absolute;
+	left:1100px;
+	top:70px
+	 }
+	 .menu4 a {
+    position:absolute;
+	left:0px;
+	top:0px
+	 }
+
+.b-img-radius {
+
+  border-radius: 30px;
+
+}
+  </style> 
+  
+<div class="menu1">
+
+   <a href="tel:+79652808090">&#128222+7 (965) 280-80-90</a>
+   
+  </div>
+  
+  <div class="menu2">
+
+   <a href="https://yandex.ru/maps/213/moscow/house/yaroslavskoye_shosse_42/Z04YcQdgT00DQFtvfXR3dXxkYg==/?ll=37.701580%2C55.864745&utm_source=main_stripe_big&z=16.98" target="_blank" >&#127759 129337, г. Москва, Ярославское шоссе д.42 офис 602, ООО «СВР» </a> 
+  
+     </div>
+   
+     <div class="menu3">
+
+   <a href="link3.html">&#128421;&nbsp;info@svr.ru</a>
+ 
+   </div>
+	
+	<thead>
+	
+	<div class="menu4">
+	<a href="index.html"> <img class="b-img-radius" src="LGO1.png"height="200" width="200"/></a>
+    </div>
+   
+   
+ <style> 
+ .text{
+	position:absolute;
+	left:620px;
+	top:120px;
+}
+ </style> 
+ 
+ 
+  
+  <h1 class="text"; style="font-size: 2rem; color: rgb(211,146,84)">Наши объекты</h1>
+  
+   <style> 
+   
+   
+   
+   
+   
+   </style> 
+  
+  <tr><th>&nbsp;</th></tr>
+  <a href="index.html" class="btn">На главную</a>
+  <a href="Elteza.html" class="btn1">&nbsp;&nbsp;&nbsp;OАO "ЭЛТЕЗА" &nbsp;&nbsp;&nbsp;</a>
+  <a href="SVR Obiekt Ruza.html" class="btn2" >&nbsp;&nbsp;&nbsp;ОАО «Мясокомбинат «Рузский»&nbsp;&nbsp;&nbsp;</a>
+  <a href="SVR Obiekt Novoya MoskvaOS3.html" class="btn3">&nbsp;&nbsp;&nbsp;ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)&nbsp;&nbsp;&nbsp;</a>
+  <a href="SVR Obiekt Novoya MoskvaOS2.html" class="btn4">&nbsp;&nbsp;&nbsp;ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)&nbsp;&nbsp;&nbsp;</a>
+  
+
+  
+  
+  
+ <style>	
+	.map{
+	position:absolute;
+	left:10px;
+	top:340px;
+}
+	</style> 
+	
+	<div id="map_container" class="map container-fluid">
+
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Afcc106049642886f40b4502e4ac9c690a0974c414d151d90b6b4714628859305&amp;width=1400&amp;height=513&amp;lang=ru_RU&amp;scroll=true"></script>

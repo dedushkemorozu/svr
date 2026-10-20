@@ -1,0 +1,71 @@
+{
+  "redirect_checks": [
+    {
+      "url": "http://svr-mos.ru/",
+      "status": 301,
+      "location": "https://svr-mos.ru/"
+    },
+    {
+      "url": "http://www.svr-mos.ru/",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.svr-mos.ru/",
+      "error": "ConnectionRefusedError(10061, 'Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение', None, 10061, None)"
+    },
+    {
+      "url": "https://svr-mos.ru/index.html",
+      "status": 301,
+      "location": "https://svr-mos.ru/"
+    },
+    {
+      "url": "https://svr-mos.ru/prod/",
+      "status": 301,
+      "location": "https://svr-mos.ru/prod"
+    }
+  ],
+  "tls": {
+    "protocol": "TLSv1.2",
+    "subject": [
+      [
+        [
+          "commonName",
+          "svr-mos.ru"
+        ]
+      ]
+    ],
+    "issuer": [
+      [
+        [
+          "countryName",
+          "US"
+        ]
+      ],
+      [
+        [
+          "organizationName",
+          "Let's Encrypt"
+        ]
+      ],
+      [
+        [
+          "commonName",
+          "YR1"
+        ]
+      ]
+    ],
+    "notBefore": "Aug 27 11:10:50 2026 GMT",
+    "notAfter": "Nov 25 11:10:49 2026 GMT",
+    "subjectAltName": [
+      [
+        "DNS",
+        "svr-mos.ru"
+      ]
+    ]
+  },
+  "resolved_ips": [
+    "85.119.149.37"
+  ],
+  "favicon_ico_status": 404
+}

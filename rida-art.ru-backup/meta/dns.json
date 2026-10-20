@@ -1,0 +1,24 @@
+﻿{
+    "rida-art.ru A":  [
+                          "85.119.149.37"
+                      ],
+    "rida-art.ru NS":  [
+                           "ns2.hosting.reg.ru",
+                           "ns1.hosting.reg.ru",
+                           "ns1.hosting.reg.ru",
+                           "ns2.hosting.reg.ru"
+                       ],
+    "rida-art.ru MX":  [
+                           "10 mx1.hosting.reg.ru",
+                           "20 mx2.hosting.reg.ru"
+                       ],
+    "rida-art.ru TXT":  [
+                            "v=spf1 ip4:37.140.192.134 a mx include:_spf.hosting.reg.ru ~all"
+                        ],
+    "rida-art.ru SOA":  [
+                            "server117.hosting.reg.ru support.reg.ru serial=2025043053"
+                        ],
+    "www.rida-art.ru A":  [
+                              "37.140.192.134"
+                          ]
+}

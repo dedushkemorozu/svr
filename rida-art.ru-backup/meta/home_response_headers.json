@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "headers": {
+    "Date": "Mon, 19 Oct 2026 09:46:37 GMT",
+    "Content-Type": "text/html",
+    "Content-Length": "21673",
+    "Connection": "close",
+    "Accept-Ranges": "bytes",
+    "Etag": "\"13455a386864fc1ee274f4fdb9642a84\"",
+    "Last-Modified": "Fri, 25 Sep 2026 22:13:54 GMT",
+    "Vary": "Origin, Access-Control-Request-Headers, Access-Control-Request-Method, Accept-Encoding",
+    "x-container-storage-policy-index": "0",
+    "x-container-storage-policy-name": "Policy-0",
+    "Age": "52183"
+  }
+}

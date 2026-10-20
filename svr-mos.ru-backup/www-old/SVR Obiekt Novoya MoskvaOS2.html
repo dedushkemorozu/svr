@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>SVR Obiekt</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+   BODY {
+    background-image:url(Background/Plan1.png);/* фон картинка*/
+    background-size: cover; /* фоновая картинка на весь экран */ 
+    font:bold 15px Tahoma, sans-serif;
+    
+    
+    }
+  </style>
+  <style>
+   .btn1 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #fff; /* Оранжевый */
+    background-size: 500%;
+    color: rgb(211,146,84); /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:150px;
+	top:230px;
+   text-align: center;
+   
+   box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+    }
+      .btn2 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(211,146,84); /* Оранжевый */
+    background-size: 500%;
+    color: #fff; /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:350px;
+	top:230px;
+   text-align: center;
+   
+   box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+}
+ .btn3 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(211,146,84); /* Оранжевый */
+    background-size: 500%;
+    color: #fff; /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:650px;
+	top:230px;
+   text-align: center;
+   
+   box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+}
+
+.btn4 {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: rgb(211,146,84); /* Оранжевый */
+    background-size: 500%;
+    color: #fff; /* Белый цвет текста */
+    padding: 2em, 2em ; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 50px; /* Скругляем уголки */
+    
+    min-width: 180px;
+    height: 50px;
+    line-height: 55px;
+    margin: 10px;
+   vertical-align: center;
+   position:absolute;
+	left:1000px;
+	top:230px;
+   text-align: center;
+    
+ box-shadow: 
+0 6px rgb(86,38,6), 
+0 3px 15px rgba(0,0,0,.4), 
+inset 0 1px rgba(255,255,255,.3), 
+inset 0 0 3px rgba(255,255,255,.5); 
+transition: .2s; 
+} 
+
+  
+ 
+.btn1:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn1:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+  
+}
+.btn2:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn2:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+  
+}
+  .btn3:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn3:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+  
+}
+  .btn4:hover:before {
+  filter: blur(20px);
+  opacity: 1;
+  animation: animate 8s linear infinite;
+}
+
+   .btn4:active {
+  background: silver;
+  box-shadow: 0 3px silver inset;
+ }
+  
+  .volume-text {
+    font:bold 50px Tahoma, sans-serif;
+    color: #089dcb;
+    text-shadow: 2px 2px 1px #333, -1px -1px 0 #0ff;
+}
+span {
+  display: inline-block;
+  transform: translate(14em, 6em);
+  color: blur;
+  font:bold 15px Arial, sans-serif;
+
+ 
+  
+  
+  </style> 
+ </head>
+ <body>
+ 
+  <style> 
+  .menu1 a {
+    color: #ffa; /* Цвет ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+    position:absolute;
+	left:250px;
+	top:70px;
+   }
+   .menu2 a {
+    color: #ffa; /* Цвет ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+    position:absolute;
+	left:500px;
+	top:70px
+	 }
+	.menu3 a {
+    color: #ffa; /* Цвет ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+    position:absolute;
+	left:1100px;
+	top:70px
+	 }
+	 .menu4 a {
+    position:absolute;
+	left:0px;
+	top:0px
+	 }
+
+.b-img-radius {
+
+  border-radius: 30px;
+
+}
+  </style> 
+  
+<div class="menu1">
+
+   <a href="tel:+79652808090">&#128222+7 (965) 280-80-90</a>
+   
+  </div>
+  
+  <div class="menu2">
+
+   <a href="https://yandex.ru/maps/213/moscow/house/yaroslavskoye_shosse_42/Z04YcQdgT00DQFtvfXR3dXxkYg==/?ll=37.701580%2C55.864745&utm_source=main_stripe_big&z=16.98" target="_blank" >&#127759 129337, г. Москва, Ярославское шоссе д.42 офис 602, ООО «СВР» </a> 
+  
+     </div>
+   
+     <div class="menu3">
+
+   <a href="link3.html">&#128421;&nbsp;info@svr.ru</a>
+ 
+   </div>
+	
+	<thead>
+	
+	<div class="menu4">
+	<a href="index.html"> <img class="b-img-radius" src="LGO1.png"height="200" width="200"/></a>
+    </div>
+   
+   
+ <style> 
+ .text{
+	position:absolute;
+	left:450px;
+	top:120px;
+}
+.text1{
+	position:absolute;
+	left:400px;
+	top:190px;
+}
+.text12{
+	position:absolute;
+	left:850px;
+	top:390px;
+}
+.text13{
+	position:absolute;
+	left:850px;
+	top:440px;
+}
+
+.text2{
+	position:absolute;
+	left:850px;
+	top:450px;
+}
+.text3{
+	position:absolute;
+	left:850px;
+	top:480px;
+}
+.text4{
+	position:absolute;
+	left:850px;
+	top:505px;
+}
+.text5{
+	position:absolute;
+	left:850px;
+	top:580px;
+
+
+
+ </style> 
+ 
+ 
+  
+ <h1 class="text"; style="font-size: 2rem; color: rgb(211,146,84)">ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)</h1>
+ <h2 class="text12"; style="font-size: 1rem; color: #ffa">&nbsp;&nbsp;&nbsp;&nbsp;Выполнено:</h2>
+ <h22 class="text13"; style="font-size: 1rem; color: rgb(211,146,84)"> &#128270;&nbsp;Обследование построенных сооружений;</h22>
+ <h3 class="text1"; style="font-size: 1rem; color: #ffa">Проведение пусконаладочных работ очистных сооружений ливневой канализаци</h3>
+ <h4 class="text2"; style="font-size: 1rem; color: rgb(211,146,84)"> &#129514;&nbsp;Отбор проб сточных вод ливневой канализации;  </h4>
+ <h5 class="text3"; style="font-size: 1rem; color: rgb(211,146,84)">&#129516;&nbsp;Проведение лабораторных испытаний; </h5>
+ <h6 class="text4"; style="font-size: 1rem; color: rgb(211,146,84)">&#128300;&nbsp;Определение показателей сточных вод; </h6>
+ <h7 class="text5"; style="font-size: 1rem; color: rgb(211,146,84)">&#128397;&nbsp;Маркировка оборудования;</h7>
+  
+  <style> 
+ .text7{
+	position:absolute;
+	left:850px;
+	top:620px;
+}
+.text8{
+	position:absolute;
+	left:850px;
+	top:660px;
+}
+  </style> 
+ <h9 class="text7"; style="font-size: 1rem; color: rgb(211,146,84)">&#128301;&nbsp;Выявление неисправностей; </h9>
+ <h10 class="text8"; style="font-size: 1rem; color: rgb(211,146,84)">&#128736;&nbsp;Определение режимов работы;</h10>
+
+  
+  
+  
+  
+   
+  
+  <tr><th>&nbsp;</th></tr>
+  
+  <a href="index.html" class="btn1">На главную</a>
+  <a href="SVR Obiekt Ruza.html" class="btn2" >&nbsp;&nbsp;&nbsp;ОАО «Мясокомбинат «Рузский»&nbsp;&nbsp;&nbsp;</a>
+  <a href="SVR Obiekt Novoya MoskvaOS3.html" class="btn3">&nbsp;&nbsp;&nbsp;ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)&nbsp;&nbsp;&nbsp;</a>
+  <a href="SVR Obiekt Novoya MoskvaOS2.html" class="btn4">&nbsp;&nbsp;&nbsp;ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)&nbsp;&nbsp;&nbsp;</a>
+  
+<style> 
+  /*описываем переключение фото*/
+
+..slider {
+	position:relative;
+	width:700px;
+	padding-top:370px;
+	text-align:center;
+	}
+	.slider__check {
+		position:absolute;
+		clip:rect(0 0 0 0);
+		overflow:hidden;
+		
+		}
+	.slider__image {
+		position:absolute;
+		top:350px;
+		left:40px;
+		}
+		
+	.slider__label {
+		overflow:hidden;
+		display:inline-block;
+		width:10px;
+		height:10px;
+		background:rgb(211,146,84);
+		border-radius:50%;
+		text-indent:-9999px;
+		cursor: pointer;
+        margin: 700px 25px 60px 55px;
+		}
+
+/* Display */
+.slider__image {
+	display:none;
+	}
+.slider__check:checked + .slider__label + .slider__image {
+	display:block;
+	
+	}
+
+/* Current */
+.slider__check:checked + .slider__label {
+	background:#fff;
+	
+	}
+
+
+
+.table {
+	width: 60%;
+	border: none;
+	margin-bottom: 20px;
+	border-collapse: separate;
+}
+.table {
+	height: 50%;
+	border: none;
+	margin-bottom: 20px;
+	border-collapse: separate;
+	position: absolute;
+  top: 280px;
+  left: 300px;
+}
+
+.table thead th {
+	font-weight: bold;	
+	text-align: center;
+	border: none;
+	padding: 10px 2px;/*устанавливает внутренние отступы/поля со всех сторон элемента*/
+	background: white;
+	font-size: 30px;
+	color:#45a89dfc;
+}
+  </style> 
+ 
+  
+  
+  <div class="slider">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-1" checked><label for="slider__check-1" class="slider__label">1</label><img src="Content/SVR Obiekt Novoya MoskvaOS2/OS2_5.png" alt="" class="slider__image">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-2"><label for="slider__check-2" class="slider__label">2</label><img src="Content/SVR Obiekt Novoya MoskvaOS2/OS2_3.tif" alt="" class="slider__image">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-3"><label for="slider__check-3" class="slider__label">3</label><img src="Content/SVR Obiekt Novoya MoskvaOS2/OS2_6.tif" alt="" class="slider__image">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-4"><label for="slider__check-4" class="slider__label">4</label><img src="Content/Elteza/Elt1_7.png" alt="" class="slider__image">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-5"><label for="slider__check-5" class="slider__label">5</label><img src="Content/SVR Obiekt Novoya MoskvaOS2/OS2_7.tif"" alt="" class="slider__image">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-6"><label for="slider__check-6" class="slider__label">6</label><img src="Content/SVR Obiekt Novoya MoskvaOS2/OS2_2.tif" alt="" class="slider__image">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-7"><label for="slider__check-7" class="slider__label">7</label><img src="Content/SVR Obiekt Novoya MoskvaOS2/OS2_10.tif" alt="" class="slider__image">
+	   <input type="radio" name="slider__check" class="slider__check" id="slider__check-8"><label for="slider__check-8" class="slider__label">8</label><img src="Content/SVR Obiekt Novoya MoskvaOS2/OS2_9.tif" alt="s" class="slider__image">
+	
+	</div>
+
+ 
+ </body>
+</html>

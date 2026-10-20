@@ -1,0 +1,140 @@
+{
+  "menu": [
+    {
+      "text": "Главная",
+      "href": "https://svr-mos.ru"
+    },
+    {
+      "text": "Реквизиты",
+      "href": "https://svr-mos.ru/rekvizit"
+    },
+    {
+      "text": "Наши обьекты",
+      "href": "https://svr-mos.ru/obj"
+    },
+    {
+      "text": "ОАО ЭЛТЕЗА",
+      "href": "https://svr-mos.ru/elteza"
+    },
+    {
+      "text": "ОАО Мясокомбинат Рузский",
+      "href": "https://svr-mos.ru/russkii"
+    },
+    {
+      "text": "ОС3 Марьино-Саларьево",
+      "href": "https://svr-mos.ru/os3-marino"
+    },
+    {
+      "text": "ОС2 Марьино-Саларьево",
+      "href": "https://svr-mos.ru/os2-marino"
+    },
+    {
+      "text": "Наша продукция",
+      "href": "https://svr-mos.ru/prod"
+    },
+    {
+      "text": "Документы",
+      "href": "https://svr-mos.ru/docs"
+    },
+    {
+      "text": "Контакты",
+      "href": "https://svr-mos.ru/contact"
+    }
+  ],
+  "footer": {},
+  "contacts": {},
+  "custom_scripts": [],
+  "maps": [],
+  "icons": [
+    {
+      "rel": "apple-touch-icon",
+      "sizes": "128x128",
+      "href": "https://s.tb.ru/images/favicons/tb.svg"
+    },
+    {
+      "rel": "shortcut icon",
+      "href": "https://s.tb.ru/images/favicons/tb.svg"
+    }
+  ],
+  "logos": [
+    [
+      "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/e6bc8f84-f726-4b62-8594-5d10f36e73f2/e6bc8f84-f726-4b62-8594-5d10f36e73f2-16449212.png"
+    ]
+  ],
+  "forms_found_on": [],
+  "tbConfig": {
+    "inFrame": false,
+    "enableLazyLoading": false,
+    "enableJsLazyLoading": true,
+    "enableDynamicGoods": true,
+    "isPreviewMode": false,
+    "posScriptUrl": "https://forma.tinkoff.ru/static/onlineScript.js",
+    "enableMessengerLazyLoading": true,
+    "hasPromocodes": false,
+    "styleChunksSplitting": true,
+    "yandexMapsApiKey": "a9eba83c-b342-4dfe-ab11-2c7cbd6839cb",
+    "staticPath": "https://660c827d-ce04-4b4c-80d1-1d6200e5d4c5.selcdn.net/tb/0.1.939",
+    "enableUserAnimations": false
+  },
+  "meta": {
+    "description": "Главная страница",
+    "keywords": "",
+    "viewport": "width=device-width, initial-scale=1",
+    "og:title": "Главная страница",
+    "og:description": "",
+    "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+    "twitter:title": "Главная страница",
+    "twitter:description": "",
+    "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+    "twitter:card": "summary_large_image"
+  },
+  "phones": [],
+  "emails": [],
+  "section_types": [
+    {
+      "type": "company-card",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "contacts-extensible",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "footer-customer",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "gallery",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "header",
+      "subtype": null,
+      "count": 12
+    },
+    {
+      "type": "script",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "slider",
+      "subtype": null,
+      "count": 6
+    },
+    {
+      "type": "text",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "text-list",
+      "subtype": null,
+      "count": 1
+    }
+  ]
+}

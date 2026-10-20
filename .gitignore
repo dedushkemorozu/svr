@@ -1,0 +1,12 @@
+# В репозитории только сайты (svr-mos.ru, rida-art.ru). Бот l1bot, .env, .venv и архивы — не публикуются.
+/*
+!/.gitignore
+!/README-sites.md
+!/svr-mos.ru-backup/
+!/rida-art.ru-backup/
+
+__pycache__/
+*.pyc
+*.zip
+.env
+.env.*

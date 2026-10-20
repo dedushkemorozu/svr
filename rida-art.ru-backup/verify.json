@@ -1,0 +1,243 @@
+{
+  "sitemap_urls": 116,
+  "pages_fetched_ok": 116,
+  "pages_failed": {
+    "https://rida-art.ru/returns": 404
+  },
+  "pages_outside_sitemap": [
+    "https://rida-art.ru/returns"
+  ],
+  "pages_corrupt_all_nul": [
+    "https://rida-art.ru/action"
+  ],
+  "broken_internal_links": {
+    "https://rida-art.ru/returns": {
+      "status": 404,
+      "linked_from_pages": 103,
+      "examples": [
+        "birds",
+        "product-bbanwxq",
+        "product-bdnhdky"
+      ]
+    }
+  },
+  "catalogs": [
+    {
+      "page": "birds",
+      "heading": null,
+      "goods": 11,
+      "cards_in_html": 11,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "nabory",
+      "heading": "Наборы",
+      "goods": 6,
+      "cards_in_html": 6,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "angels",
+      "heading": "Ангелы",
+      "goods": 25,
+      "cards_in_html": 12,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "new",
+      "heading": "Новинки",
+      "goods": 10,
+      "cards_in_html": 10,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "horse",
+      "heading": "Лошадки",
+      "goods": 5,
+      "cards_in_html": 5,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "houses",
+      "heading": "Домики",
+      "goods": 8,
+      "cards_in_html": 8,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "page98",
+      "heading": "Пасхальные деревянные яйца с росписью",
+      "goods": 5,
+      "cards_in_html": 5,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "page97",
+      "heading": "Пасхальные стеклянные яйца с росписью",
+      "goods": 8,
+      "cards_in_html": 8,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "page100",
+      "heading": "Пасхальные подвески",
+      "goods": 6,
+      "cards_in_html": 6,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "page99",
+      "heading": "Пасхальные ангелы",
+      "goods": 4,
+      "cards_in_html": 4,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "page101",
+      "heading": "Пасхальные наборы",
+      "goods": 12,
+      "cards_in_html": 12,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "mayak",
+      "heading": null,
+      "goods": 4,
+      "cards_in_html": 4,
+      "source": "goodsIds input"
+    },
+    {
+      "page": "mush",
+      "heading": "Товары",
+      "goods": 8,
+      "cards_in_html": 0,
+      "source": "cards"
+    },
+    {
+      "page": "new_year",
+      "heading": "Новогодние подарки",
+      "goods": 0,
+      "cards_in_html": 0,
+      "source": "goodsIds input"
+    }
+  ],
+  "assets_referenced": 339,
+  "assets_ok": 339,
+  "assets_failed": {},
+  "assets_missing_on_disk": [],
+  "products_total": 92,
+  "products_without_page": [],
+  "products_without_images": [
+    "isqjygk",
+    "ktdaykn",
+    "tdjolkd"
+  ],
+  "products_missing_in_api": [],
+  "products_hidden": [],
+  "products_with_variants": [
+    "azcoqrl",
+    "bdnhdky",
+    "cqyhgzs",
+    "grvjrqb",
+    "qdnepiz",
+    "xhyukpb",
+    "zqpggfl"
+  ],
+  "products_not_listed_in_any_catalog": [
+    "isqjygk",
+    "jllanvr",
+    "ktdaykn",
+    "qdnepiz",
+    "tdjolkd",
+    "ypnqirn"
+  ],
+  "product_images_missing_on_disk": [],
+  "goods_images_not_linked_to_any_product": [],
+  "html_vs_api_mismatches": [],
+  "placeholder_descriptions": [
+    "ebmvrpq",
+    "kzaavej",
+    "vyjnuaw"
+  ],
+  "empty_descriptions": [
+    "agtcafh",
+    "aycudfn",
+    "azcoqrl",
+    "bagwpce",
+    "bgtgmrt",
+    "binqiex",
+    "bmwlisx",
+    "cisyfjl",
+    "ciwrsnf",
+    "cqyhgzs",
+    "dbimhah",
+    "dvdiejt",
+    "dycqjse",
+    "elrbqbs",
+    "glcfjwc",
+    "grvjrqb",
+    "gtbbxnx",
+    "gvpoqvs",
+    "hvtaxtk",
+    "ibzkzvw",
+    "isqjygk",
+    "ixvoimg",
+    "jfwaxvr",
+    "juwxugi",
+    "jzwtwxt",
+    "kgkfqwj",
+    "ksiozst",
+    "ktdaykn",
+    "lzvqclx",
+    "mffqsxu",
+    "mgxkpvp",
+    "mlkpzhn",
+    "nmpcjmv",
+    "oemkjbj",
+    "oruaeju",
+    "pkqxvex",
+    "qdkpopn",
+    "qdnepiz",
+    "qvidzye",
+    "rtmowie",
+    "sbvbmli",
+    "sxwjlpa",
+    "tbmtoyh",
+    "tdjolkd",
+    "thhhqhl",
+    "tissdab",
+    "tmgdgxa",
+    "trjhcpn",
+    "ugjwrgl",
+    "ugwshxb",
+    "uixmesh",
+    "utrrbbm",
+    "wceeqdp",
+    "whqqnil",
+    "wnbhvrf",
+    "wqbylzk",
+    "wzezntb",
+    "xfyuzwl",
+    "xhyukpb",
+    "xsgxmsb",
+    "xsqufii",
+    "xyyzlal",
+    "ypitpic",
+    "ypkrkhd",
+    "ypnqirn",
+    "yyrptld",
+    "yzaxijh",
+    "zbwdwbw",
+    "zhzzrbn",
+    "zjnykfh",
+    "zqpggfl",
+    "zulyfhy"
+  ],
+  "failures": [
+    {
+      "url": "https://rida-art.ru/returns",
+      "status": 404,
+      "error": null
+    }
+  ]
+}

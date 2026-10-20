@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/
+Sitemap: https://svr-mos.ru/sitemap.xml
+Host: https://svr-mos.ru

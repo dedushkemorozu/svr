@@ -1,0 +1,852 @@
+{
+  "generated": "2026-10-20T14:19:46+00:00",
+  "count": 11,
+  "pages": [
+    {
+      "url": "https://svr-mos.ru/contact",
+      "slug": "contact",
+      "file": "html/contact.html",
+      "lastmod": "2026-04-29T18:25:04.206Z",
+      "final_url": "https://svr-mos.ru/contact",
+      "lang": "ru",
+      "title": "Контакты",
+      "meta": {
+        "description": "Контакты",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Контакты",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Контакты",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "Контакты\n\nАдрес\n\nМосква, м. «ВДНХ», «Ботанический сад»,\nЯрославское шоссе, д. 42, оф. 603\n\nВремя работы\n\nПн—Пт: 10:00—18:00\nСб—Вс: выходные\n\nДля связи\n\n8 965 280-80-90\ninfo@svr-mos.ru",
+      "sections": [
+        {
+          "id": "contacts-extensible",
+          "type": "contacts-extensible",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "Контакты"
+            },
+            {
+              "level": 5,
+              "text": "Адрес"
+            },
+            {
+              "level": 5,
+              "text": "Время работы"
+            },
+            {
+              "level": 5,
+              "text": "Для связи"
+            }
+          ],
+          "text": "Контакты\n\nАдрес\n\nМосква, м. «ВДНХ», «Ботанический сад»,\nЯрославское шоссе, д. 42, оф. 603\n\nВремя работы\n\nПн—Пт: 10:00—18:00\nСб—Вс: выходные\n\nДля связи\n\n8 965 280-80-90\ninfo@svr-mos.ru",
+          "html": "<h2>Контакты</h2>\n\n<img src=\"https://3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/b00f046d-e530-4848-a6a6-861f32cd3c8f/b00f046d-e530-4848-a6a6-861f32cd3c8f-625086.png\" alt=\"Изображение\">\n\n<h5>Адрес</h5>\nМосква, м. «ВДНХ»,  «Ботанический сад»,<br>Ярославское шоссе, д. 42, оф. 603<br>\n\n<img src=\"https://3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/48814216-132b-4461-b279-3ec3a98ba6ea/48814216-132b-4461-b279-3ec3a98ba6ea-625087.png\" alt=\"Изображение\">\n\n<h5>Время работы</h5>\nПн—Пт: 10:00—18:00<br> Сб—Вс: выходные\n\n<img src=\"https://3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/7ab76a00-2411-4c77-9953-a6c60fedc889/7ab76a00-2411-4c77-9953-a6c60fedc889-625088.png\" alt=\"Изображение\">\n\n<h5>Для связи</h5>\n8 965 280-80-90<br>info@svr-mos.ru<br>",
+          "images": [
+            {
+              "url": "https://3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/48814216-132b-4461-b279-3ec3a98ba6ea/48814216-132b-4461-b279-3ec3a98ba6ea-625087.png",
+              "file": "assets/3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/48814216-132b-4461-b279-3ec3a98ba6ea/48814216-132b-4461-b279-3ec3a98ba6ea-625087.png"
+            },
+            {
+              "url": "https://3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/7ab76a00-2411-4c77-9953-a6c60fedc889/7ab76a00-2411-4c77-9953-a6c60fedc889-625088.png",
+              "file": "assets/3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/7ab76a00-2411-4c77-9953-a6c60fedc889/7ab76a00-2411-4c77-9953-a6c60fedc889-625088.png"
+            },
+            {
+              "url": "https://3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/b00f046d-e530-4848-a6a6-861f32cd3c8f/b00f046d-e530-4848-a6a6-861f32cd3c8f-625086.png",
+              "file": "assets/3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/ekxeyzp/mgahrbb/b00f046d-e530-4848-a6a6-861f32cd3c8f/b00f046d-e530-4848-a6a6-861f32cd3c8f-625086.png"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/docs",
+      "slug": "docs",
+      "file": "html/docs.html",
+      "lastmod": "2026-07-23T16:38:29.518Z",
+      "final_url": "https://svr-mos.ru/docs",
+      "lang": "ru",
+      "title": "Наши документы",
+      "meta": {
+        "description": "Наши документы",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Наши документы",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Наши документы",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "Наши документы\n\nСкачать декларацию о соответствии",
+      "sections": [
+        {
+          "id": "slider",
+          "type": "slider",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "Наши документы"
+            }
+          ],
+          "text": "Наши документы\n\nСкачать декларацию о соответствии",
+          "html": "<h2>Наши документы</h2>\n\n<ul><li>\n\n<a href=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494%2FEAC%2Epdf\"><img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/9e10f66a-1180-48d7-b538-d9b107f61af5/9e10f66a-1180-48d7-b538-d9b107f61af5-16723718.jpeg\" alt=\"Изображение\"></a>\n\n<a href=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494%2FEAC%2Epdf\"><b>Скачать декларацию о соответствии</b></a>\n\n</li></ul>",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494%2FEAC%2Epdf",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/EAC.pdf"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/9e10f66a-1180-48d7-b538-d9b107f61af5/9e10f66a-1180-48d7-b538-d9b107f61af5-16723718.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/9e10f66a-1180-48d7-b538-d9b107f61af5/9e10f66a-1180-48d7-b538-d9b107f61af5-16723718.jpeg"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494%2FEAC%2Epdf",
+              "text": ""
+            },
+            {
+              "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494%2FEAC%2Epdf",
+              "text": "Скачать декларацию о соответствии"
+            }
+          ]
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": [
+        "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494%2FEAC%2Epdf"
+      ]
+    },
+    {
+      "url": "https://svr-mos.ru/",
+      "slug": "index",
+      "file": "html/index.html",
+      "lastmod": "2026-05-14T16:36:43.547Z",
+      "final_url": "https://svr-mos.ru/",
+      "lang": "ru",
+      "title": "Главная страница",
+      "meta": {
+        "description": "Главная страница",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Главная страница",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Главная страница",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "Мы делаем мир чище\n\nКонтроль качества на каждом этапе\n\nМы сами проектируем и разрабатываем оборудование",
+      "sections": [
+        {
+          "id": "slider",
+          "type": "slider",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 4,
+              "text": "Мы делаем мир чище"
+            },
+            {
+              "level": 4,
+              "text": "Контроль качества на каждом этапе"
+            },
+            {
+              "level": 4,
+              "text": "Мы сами проектируем и разрабатываем оборудование"
+            }
+          ],
+          "text": "Мы делаем мир чище\n\nКонтроль качества на каждом этапе\n\nМы сами проектируем и разрабатываем оборудование",
+          "html": "<ul><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a06695f0-018a-4832-97f2-e0ead28c8661/a06695f0-018a-4832-97f2-e0ead28c8661-16448959.jpeg\" alt=\"Изображение\">\n<h4>Мы делаем мир чище</h4>\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/62028868-402d-48a6-a738-109decabc975/62028868-402d-48a6-a738-109decabc975-16448960.jpeg\" alt=\"Изображение\">\n<h4>Контроль качества на каждом этапе</h4>\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/7e4c46ea-1124-4d37-baf5-81608d73c198/7e4c46ea-1124-4d37-baf5-81608d73c198-16448967.jpeg\" alt=\"Изображение\">\n<h4>Мы сами проектируем и разрабатываем оборудование</h4>\n</li></ul>\n\n<ul></ul>",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/62028868-402d-48a6-a738-109decabc975/62028868-402d-48a6-a738-109decabc975-16448960.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/62028868-402d-48a6-a738-109decabc975/62028868-402d-48a6-a738-109decabc975-16448960.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/7e4c46ea-1124-4d37-baf5-81608d73c198/7e4c46ea-1124-4d37-baf5-81608d73c198-16448967.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/7e4c46ea-1124-4d37-baf5-81608d73c198/7e4c46ea-1124-4d37-baf5-81608d73c198-16448967.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a06695f0-018a-4832-97f2-e0ead28c8661/a06695f0-018a-4832-97f2-e0ead28c8661-16448959.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a06695f0-018a-4832-97f2-e0ead28c8661/a06695f0-018a-4832-97f2-e0ead28c8661-16448959.jpeg"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/rekvizit",
+      "slug": "rekvizit",
+      "file": "html/rekvizit.html",
+      "lastmod": "2026-05-14T16:37:22.516Z",
+      "final_url": "https://svr-mos.ru/rekvizit",
+      "lang": "ru",
+      "title": "Реквизиты компании",
+      "meta": {
+        "description": "Реквизиты компании",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Реквизиты компании",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Реквизиты компании",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "ООО \"СЕРВИС ВОДНЫХ РЕСУРСОВ\"\n\nПолное наименование на русском языке:\n\nОбщество с ограниченной ответственностью\n«СЕРВИС ВОДНЫХ РЕСУРСОВ»\n\nСокращенное наименование на русском языке:\n\nООО «СВР»\n\nЮридический адрес:\n\n129347, г.Москва, вн.тер.г. муниципальный округ Ярославский, Ярославское шоссе, д. 124 ,Помещ. 1\n\nИНН:\n\n7716962072\n\nКПП:\n\n771601001\n\nБанк\n\nАО «Райффайзенбанк»\n\nРасчетный счет\n\n40702810800000204238\n\nКорреспондентский счет\n\n30101810200000000700\n\nБИК банка\n\n044525700\n\nГенеральный директор\n\nНовицкий Андрей Аркадьевич",
+      "sections": [
+        {
+          "id": "company-card",
+          "type": "company-card",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 4,
+              "text": "ООО \"СЕРВИС ВОДНЫХ РЕСУРСОВ\""
+            }
+          ],
+          "text": "ООО \"СЕРВИС ВОДНЫХ РЕСУРСОВ\"\n\nПолное наименование на русском языке:\n\nОбщество с ограниченной ответственностью\n«СЕРВИС ВОДНЫХ РЕСУРСОВ»\n\nСокращенное наименование на русском языке:\n\nООО «СВР»\n\nЮридический адрес:\n\n129347, г.Москва, вн.тер.г. муниципальный округ Ярославский, Ярославское шоссе, д. 124 ,Помещ. 1\n\nИНН:\n\n7716962072\n\nКПП:\n\n771601001\n\nБанк\n\nАО «Райффайзенбанк»\n\nРасчетный счет\n\n40702810800000204238\n\nКорреспондентский счет\n\n30101810200000000700\n\nБИК банка\n\n044525700\n\nГенеральный директор\n\nНовицкий Андрей Аркадьевич",
+          "html": "<img src=\"https://d4137789-8410-4cda-a35f-192996028aae.selstorage.ru/block-templates/3061e3e9-d458-498c-8042-174a5ed5b527/3061e3e9-d458-498c-8042-174a5ed5b527-625055.png\" alt=\"ООО &quot;СЕРВИС ВОДНЫХ РЕСУРСОВ&quot;\">\n\n<h4>ООО \"СЕРВИС ВОДНЫХ РЕСУРСОВ\"</h4>\n\nПолное наименование на русском языке:\n\nОбщество с ограниченной ответственностью <br>«СЕРВИС ВОДНЫХ РЕСУРСОВ»<br>\n\nСокращенное наименование на русском языке:\n\nООО «СВР»\n\nЮридический адрес:\n\n129347, г.Москва, вн.тер.г. муниципальный округ Ярославский,  Ярославское шоссе, д. 124 ,Помещ. 1\n\nИНН:\n\n7716962072\n\nКПП:\n\n771601001 \n\nБанк\n\nАО «Райффайзенбанк»\n\nРасчетный счет\n\n40702810800000204238\n\nКорреспондентский счет\n\n30101810200000000700\n\nБИК банка\n\n044525700\n\nГенеральный директор\n\nНовицкий Андрей Аркадьевич",
+          "images": [
+            {
+              "url": "https://3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/rfhopof/fnbzqki/d5bf70b5-38d2-4991-b568-b1c371fa20b1/d5bf70b5-38d2-4991-b568-b1c371fa20b1-320464.jpeg",
+              "file": "assets/3ec19d26-ac1a-4d5d-9cb6-be09a594ab33.selstorage.ru/rfhopof/fnbzqki/d5bf70b5-38d2-4991-b568-b1c371fa20b1/d5bf70b5-38d2-4991-b568-b1c371fa20b1-320464.jpeg"
+            },
+            {
+              "url": "https://d4137789-8410-4cda-a35f-192996028aae.selstorage.ru/block-templates/3061e3e9-d458-498c-8042-174a5ed5b527/3061e3e9-d458-498c-8042-174a5ed5b527-625055.png",
+              "file": "assets/d4137789-8410-4cda-a35f-192996028aae.selstorage.ru/block-templates/3061e3e9-d458-498c-8042-174a5ed5b527/3061e3e9-d458-498c-8042-174a5ed5b527-625055.png"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/obj",
+      "slug": "obj",
+      "file": "html/obj.html",
+      "lastmod": "2026-05-14T13:53:27.110Z",
+      "final_url": "https://svr-mos.ru/obj",
+      "lang": "ru",
+      "title": "Наши обьекты",
+      "meta": {
+        "description": "Наши обьекты",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Наши обьекты",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Наши обьекты",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "",
+      "sections": [],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/prod1",
+      "slug": "prod1",
+      "file": "html/prod1.html",
+      "lastmod": "2026-09-07T14:44:29.703Z",
+      "final_url": "https://svr-mos.ru/prod1",
+      "lang": "ru",
+      "title": "Станция1",
+      "meta": {
+        "description": "Станция1",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Станция1",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Станция1",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "Станции дозирования и приготовления реагентов двухкамерные\n\nСтанции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные\n\nХарактеристики товара\n\nТип\n\nСмартфон\n\nКоличество SIM-карт\n\n1\n\nМатериал корпуса\n\nСтекло\n\nТип SIM-карты\n\nnano SIM\n\nКонструкция\n\nВодозащита\n\nВес\n\n174 г\n\nТип экрана\n\nцветной OLED, сенсорный\n\nДиагональ\n\n4.8 дюйма\n\nФонарик\n\nЕсть\n\nПоворот экрана\n\nЕсть",
+      "sections": [
+        {
+          "id": "text",
+          "type": "text",
+          "subtype": null,
+          "headings": [],
+          "text": "Станции дозирования и приготовления реагентов двухкамерные\n\nСтанции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные",
+          "html": "Станции дозирования и приготовления реагентов двухкамерные<br>\n\nСтанции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные Станции дозирования и приготовления реагентов двухкамерные<br>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/67a5ec4c-32f9-4016-977b-b616ad5c5713/67a5ec4c-32f9-4016-977b-b616ad5c5713-16867511.png\" alt=\"О тортах\">",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/67a5ec4c-32f9-4016-977b-b616ad5c5713/67a5ec4c-32f9-4016-977b-b616ad5c5713-16867511.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/67a5ec4c-32f9-4016-977b-b616ad5c5713/67a5ec4c-32f9-4016-977b-b616ad5c5713-16867511.png"
+            }
+          ],
+          "links": []
+        },
+        {
+          "id": "text-list",
+          "type": "text-list",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "Характеристики товара"
+            },
+            {
+              "level": 3,
+              "text": "Тип"
+            },
+            {
+              "level": 3,
+              "text": "Количество SIM-карт"
+            },
+            {
+              "level": 3,
+              "text": "Материал корпуса"
+            },
+            {
+              "level": 3,
+              "text": "Тип SIM-карты"
+            },
+            {
+              "level": 3,
+              "text": "Конструкция"
+            },
+            {
+              "level": 3,
+              "text": "Вес"
+            },
+            {
+              "level": 3,
+              "text": "Тип экрана"
+            },
+            {
+              "level": 3,
+              "text": "Диагональ"
+            },
+            {
+              "level": 3,
+              "text": "Фонарик"
+            },
+            {
+              "level": 3,
+              "text": "Поворот экрана"
+            }
+          ],
+          "text": "Характеристики товара\n\nТип\n\nСмартфон\n\nКоличество SIM-карт\n\n1\n\nМатериал корпуса\n\nСтекло\n\nТип SIM-карты\n\nnano SIM\n\nКонструкция\n\nВодозащита\n\nВес\n\n174 г\n\nТип экрана\n\nцветной OLED, сенсорный\n\nДиагональ\n\n4.8 дюйма\n\nФонарик\n\nЕсть\n\nПоворот экрана\n\nЕсть",
+          "html": "<h2>Характеристики товара</h2>\n\n<h3>Тип</h3>\n\nСмартфон\n\n<h3>Количество SIM-карт</h3>\n\n1\n\n<h3>Материал корпуса</h3>\n\nСтекло\n\n<h3>Тип SIM-карты</h3>\n\nnano SIM\n\n<h3>Конструкция</h3>\n\nВодозащита\n\n<h3>Вес</h3>\n\n174 г\n\n<h3>Тип экрана</h3>\n\nцветной OLED, сенсорный\n\n<h3>Диагональ</h3>\n\n4.8 дюйма\n\n<h3>Фонарик</h3>\n\nЕсть\n\n<h3>Поворот экрана</h3>\n\nЕсть",
+          "images": [],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/elteza",
+      "slug": "elteza",
+      "file": "html/elteza.html",
+      "lastmod": "2026-05-14T16:41:51.053Z",
+      "final_url": "https://svr-mos.ru/elteza",
+      "lang": "ru",
+      "title": "Элтеза",
+      "meta": {
+        "description": "Элтеза",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Элтеза",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Элтеза",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "ОАО ЭЛТЕЗА\n\nВыполнено:\n\n🔎 Обследование действующих сооружений;\n🧪 Отбор проб сточных вод гальванического производства;\n🧬 Проведение лабораторных испытаний;\n🔬 Определение показателей сточных вод;\n🛸 Определение оптимальных технологических решений;\n📏 Разработка проектной документации;\n🛠 Разработка рабочей документации;",
+      "sections": [
+        {
+          "id": "slider",
+          "type": "slider",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "ОАО ЭЛТЕЗА\n\nВыполнено:\n\n🔎 Обследование действующих сооружений;\n🧪 Отбор проб сточных вод гальванического производства;\n🧬 Проведение лабораторных испытаний;\n🔬 Определение показателей сточных вод;\n🛸 Определение оптимальных технологических решений;\n📏 Разработка проектной документации;\n🛠 Разработка рабочей документации;"
+            }
+          ],
+          "text": "ОАО ЭЛТЕЗА\n\nВыполнено:\n\n🔎 Обследование действующих сооружений;\n🧪 Отбор проб сточных вод гальванического производства;\n🧬 Проведение лабораторных испытаний;\n🔬 Определение показателей сточных вод;\n🛸 Определение оптимальных технологических решений;\n📏 Разработка проектной документации;\n🛠 Разработка рабочей документации;",
+          "html": "<h2>\n<b>ОАО ЭЛТЕЗА</b>\n<b>\n<b><br></b>\nВыполнено:</b><br><br>🔎 Обследование действующих сооружений;<br>🧪 Отбор проб сточных вод гальванического производства;<br>🧬 Проведение лабораторных испытаний;<br>🔬 Определение показателей сточных вод;<br>🛸 Определение оптимальных технологических решений;<br>📏 Разработка проектной документации;<br>🛠 Разработка рабочей документации;</h2>\n\n<ul><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/46c1822f-1d1f-49a9-acf3-a4ffe6bc433f/46c1822f-1d1f-49a9-acf3-a4ffe6bc433f-16448570.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/406e0cbf-1aaa-4814-8133-34794e117bd0/406e0cbf-1aaa-4814-8133-34794e117bd0-16448576.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/89b669cc-de0d-4759-b515-1056500099eb/89b669cc-de0d-4759-b515-1056500099eb-16448575.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/31e9c907-3443-4bcc-bcd7-6e293d7f7205/31e9c907-3443-4bcc-bcd7-6e293d7f7205-16448584.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/5870fc23-cf22-45f0-910a-2de782ec35ab/5870fc23-cf22-45f0-910a-2de782ec35ab-16448587.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/8bf40def-e5ba-4931-85b0-82e210b73daf/8bf40def-e5ba-4931-85b0-82e210b73daf-16448588.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/efa14865-7e19-4156-ad26-21743fa0a518/efa14865-7e19-4156-ad26-21743fa0a518-16448591.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/b363b3d8-9497-4669-9700-f3a9ac10b5c4/b363b3d8-9497-4669-9700-f3a9ac10b5c4-16448594.png\" alt=\"Изображение\">\n\n</li></ul>\n\n<ul></ul>",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/31e9c907-3443-4bcc-bcd7-6e293d7f7205/31e9c907-3443-4bcc-bcd7-6e293d7f7205-16448584.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/31e9c907-3443-4bcc-bcd7-6e293d7f7205/31e9c907-3443-4bcc-bcd7-6e293d7f7205-16448584.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/406e0cbf-1aaa-4814-8133-34794e117bd0/406e0cbf-1aaa-4814-8133-34794e117bd0-16448576.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/406e0cbf-1aaa-4814-8133-34794e117bd0/406e0cbf-1aaa-4814-8133-34794e117bd0-16448576.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/46c1822f-1d1f-49a9-acf3-a4ffe6bc433f/46c1822f-1d1f-49a9-acf3-a4ffe6bc433f-16448570.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/46c1822f-1d1f-49a9-acf3-a4ffe6bc433f/46c1822f-1d1f-49a9-acf3-a4ffe6bc433f-16448570.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/5870fc23-cf22-45f0-910a-2de782ec35ab/5870fc23-cf22-45f0-910a-2de782ec35ab-16448587.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/5870fc23-cf22-45f0-910a-2de782ec35ab/5870fc23-cf22-45f0-910a-2de782ec35ab-16448587.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/89b669cc-de0d-4759-b515-1056500099eb/89b669cc-de0d-4759-b515-1056500099eb-16448575.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/89b669cc-de0d-4759-b515-1056500099eb/89b669cc-de0d-4759-b515-1056500099eb-16448575.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/8bf40def-e5ba-4931-85b0-82e210b73daf/8bf40def-e5ba-4931-85b0-82e210b73daf-16448588.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/8bf40def-e5ba-4931-85b0-82e210b73daf/8bf40def-e5ba-4931-85b0-82e210b73daf-16448588.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/b363b3d8-9497-4669-9700-f3a9ac10b5c4/b363b3d8-9497-4669-9700-f3a9ac10b5c4-16448594.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/b363b3d8-9497-4669-9700-f3a9ac10b5c4/b363b3d8-9497-4669-9700-f3a9ac10b5c4-16448594.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/efa14865-7e19-4156-ad26-21743fa0a518/efa14865-7e19-4156-ad26-21743fa0a518-16448591.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/efa14865-7e19-4156-ad26-21743fa0a518/efa14865-7e19-4156-ad26-21743fa0a518-16448591.png"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/prod",
+      "slug": "prod",
+      "file": "html/prod.html",
+      "lastmod": "2026-07-23T15:56:08.342Z",
+      "final_url": "https://svr-mos.ru/prod",
+      "lang": "ru",
+      "title": "Наша продукция",
+      "meta": {
+        "description": "Наша продукция",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "Наша продукция",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "Наша продукция",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "Наша продукция\n\nСтанции дозирования и приготовления реагентов двухкамерные\n\nРеактор трехкамерный\n\nРеактор однокамерный\n\nУстановка комплексного обеззараживания сточных вод\n\nКанализационные насосные станции",
+      "sections": [
+        {
+          "id": "gallery",
+          "type": "gallery",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "Наша продукция"
+            }
+          ],
+          "text": "Наша продукция\n\nСтанции дозирования и приготовления реагентов двухкамерные\n\nРеактор трехкамерный\n\nРеактор однокамерный\n\nУстановка комплексного обеззараживания сточных вод\n\nКанализационные насосные станции",
+          "html": "<h2>Наша продукция</h2>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/0a5973ba-980e-4c14-a115-c545b525fe39/0a5973ba-980e-4c14-a115-c545b525fe39-16449302.png\" alt=\"Изображение\">\n<b>Станции дозирования и приготовления реагентов двухкамерные</b>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/bbef727b-0b14-43e5-9356-b0b38f1a1bad/bbef727b-0b14-43e5-9356-b0b38f1a1bad-16449536.png\" alt=\"Изображение\">\n<b>Реактор трехкамерный</b>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/362f37e8-b4d4-4d8a-a636-8367c95a13e0/362f37e8-b4d4-4d8a-a636-8367c95a13e0-16449655.png\" alt=\"Изображение\">\n<b>Реактор однокамерный</b>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/2ce7bd26-ba33-425d-b308-732a54993646/2ce7bd26-ba33-425d-b308-732a54993646-16449492.png\" alt=\"Изображение\">\n<b>Установка комплексного обеззараживания сточных вод</b>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/ae9258d8-01c8-4bfa-b9c4-2834463e5ba4/ae9258d8-01c8-4bfa-b9c4-2834463e5ba4-16723569.png\" alt=\"Изображение\">\n<b>Канализационные насосные станции</b>",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/0a5973ba-980e-4c14-a115-c545b525fe39/0a5973ba-980e-4c14-a115-c545b525fe39-16449302.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/0a5973ba-980e-4c14-a115-c545b525fe39/0a5973ba-980e-4c14-a115-c545b525fe39-16449302.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/2ce7bd26-ba33-425d-b308-732a54993646/2ce7bd26-ba33-425d-b308-732a54993646-16449492.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/2ce7bd26-ba33-425d-b308-732a54993646/2ce7bd26-ba33-425d-b308-732a54993646-16449492.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/362f37e8-b4d4-4d8a-a636-8367c95a13e0/362f37e8-b4d4-4d8a-a636-8367c95a13e0-16449655.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/362f37e8-b4d4-4d8a-a636-8367c95a13e0/362f37e8-b4d4-4d8a-a636-8367c95a13e0-16449655.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/ae9258d8-01c8-4bfa-b9c4-2834463e5ba4/ae9258d8-01c8-4bfa-b9c4-2834463e5ba4-16723569.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/ae9258d8-01c8-4bfa-b9c4-2834463e5ba4/ae9258d8-01c8-4bfa-b9c4-2834463e5ba4-16723569.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/bbef727b-0b14-43e5-9356-b0b38f1a1bad/bbef727b-0b14-43e5-9356-b0b38f1a1bad-16449536.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/bbef727b-0b14-43e5-9356-b0b38f1a1bad/bbef727b-0b14-43e5-9356-b0b38f1a1bad-16449536.png"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/russkii",
+      "slug": "russkii",
+      "file": "html/russkii.html",
+      "lastmod": "2026-07-21T14:34:02.737Z",
+      "final_url": "https://svr-mos.ru/russkii",
+      "lang": "ru",
+      "title": "ОАО «Мясокомбинат «Рузский»",
+      "meta": {
+        "description": "ОАО «Мясокомбинат «Рузский»",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "ОАО «Мясокомбинат «Рузский»",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "ОАО «Мясокомбинат «Рузский»",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "Проект очистных сооружений и сетей ливневой канализации ОАО «Мясокомбинат «Рузский»\n\nВыполнено:\n🗿 Инженерные изыскания;\n\n🔎 Обследование действующих сооружений;\n\n🧪 Отбор проб сточных вод цеха обработки;\n\n🔬 Определение показателей сточных вод;\n\n🧬 Проведение лабораторных испытаний;\n\n🛸 Определение оптимальных технологических решений;\n\n🛠 Разработка рабочей документации;",
+      "sections": [
+        {
+          "id": "slider",
+          "type": "slider",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "Проект очистных сооружений и сетей ливневой канализации ОАО «Мясокомбинат «Рузский»\n\nВыполнено:\n🗿 Инженерные изыскания;\n\n🔎 Обследование действующих сооружений;\n\n🧪 Отбор проб сточных вод цеха обработки;\n\n🔬 Определение показателей сточных вод;\n\n🧬 Проведение лабораторных испытаний;\n\n🛸 Определение оптимальных технологических решений;\n\n🛠 Разработка рабочей документации;"
+            }
+          ],
+          "text": "Проект очистных сооружений и сетей ливневой канализации ОАО «Мясокомбинат «Рузский»\n\nВыполнено:\n🗿 Инженерные изыскания;\n\n🔎 Обследование действующих сооружений;\n\n🧪 Отбор проб сточных вод цеха обработки;\n\n🔬 Определение показателей сточных вод;\n\n🧬 Проведение лабораторных испытаний;\n\n🛸 Определение оптимальных технологических решений;\n\n🛠 Разработка рабочей документации;",
+          "html": "<h2>\n<b>Проект очистных сооружений и сетей ливневой канализации ОАО «Мясокомбинат «Рузский»<br></b>\n\n<br>\nВыполнено: \n🗿 Инженерные изыскания; \n\n🔎 Обследование действующих сооружений; \n\n🧪 Отбор проб сточных вод цеха обработки; \n\n🔬 Определение показателей сточных вод; \n\n🧬 Проведение лабораторных испытаний;\n\n🛸 Определение оптимальных технологических решений;\n\n🛠 Разработка рабочей документации;\n<br>\n\n</h2>\n\n<ul><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/483aa4af-bc20-4e11-bc03-527b424ab10a/483aa4af-bc20-4e11-bc03-527b424ab10a-16713983.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/06817b3a-528d-46eb-a094-a5f2dc69a5c1/06817b3a-528d-46eb-a094-a5f2dc69a5c1-16713984.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/deb74ef9-0610-4a7d-b4b7-2193f9377373/deb74ef9-0610-4a7d-b4b7-2193f9377373-16713986.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/f09dd96f-e313-4d04-a35b-d4fb4f691b8f/f09dd96f-e313-4d04-a35b-d4fb4f691b8f-16713988.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a957d510-ee9f-4410-8eb5-499582c1fa93/a957d510-ee9f-4410-8eb5-499582c1fa93-16713989.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/9dc977c4-2503-400c-8619-ec1007d856e7/9dc977c4-2503-400c-8619-ec1007d856e7-16713998.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/da51c9d1-3193-4bbe-8173-bb4421e91de0/da51c9d1-3193-4bbe-8173-bb4421e91de0-16713993.png\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/471f7c58-71d1-4009-a407-29507fd3f868/471f7c58-71d1-4009-a407-29507fd3f868-16713997.png\" alt=\"Изображение\">\n\n</li></ul>\n\n<ul></ul>",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/06817b3a-528d-46eb-a094-a5f2dc69a5c1/06817b3a-528d-46eb-a094-a5f2dc69a5c1-16713984.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/06817b3a-528d-46eb-a094-a5f2dc69a5c1/06817b3a-528d-46eb-a094-a5f2dc69a5c1-16713984.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/471f7c58-71d1-4009-a407-29507fd3f868/471f7c58-71d1-4009-a407-29507fd3f868-16713997.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/471f7c58-71d1-4009-a407-29507fd3f868/471f7c58-71d1-4009-a407-29507fd3f868-16713997.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/483aa4af-bc20-4e11-bc03-527b424ab10a/483aa4af-bc20-4e11-bc03-527b424ab10a-16713983.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/483aa4af-bc20-4e11-bc03-527b424ab10a/483aa4af-bc20-4e11-bc03-527b424ab10a-16713983.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/9dc977c4-2503-400c-8619-ec1007d856e7/9dc977c4-2503-400c-8619-ec1007d856e7-16713998.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/9dc977c4-2503-400c-8619-ec1007d856e7/9dc977c4-2503-400c-8619-ec1007d856e7-16713998.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a957d510-ee9f-4410-8eb5-499582c1fa93/a957d510-ee9f-4410-8eb5-499582c1fa93-16713989.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a957d510-ee9f-4410-8eb5-499582c1fa93/a957d510-ee9f-4410-8eb5-499582c1fa93-16713989.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/da51c9d1-3193-4bbe-8173-bb4421e91de0/da51c9d1-3193-4bbe-8173-bb4421e91de0-16713993.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/da51c9d1-3193-4bbe-8173-bb4421e91de0/da51c9d1-3193-4bbe-8173-bb4421e91de0-16713993.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/deb74ef9-0610-4a7d-b4b7-2193f9377373/deb74ef9-0610-4a7d-b4b7-2193f9377373-16713986.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/deb74ef9-0610-4a7d-b4b7-2193f9377373/deb74ef9-0610-4a7d-b4b7-2193f9377373-16713986.png"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/f09dd96f-e313-4d04-a35b-d4fb4f691b8f/f09dd96f-e313-4d04-a35b-d4fb4f691b8f-16713988.png",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/f09dd96f-e313-4d04-a35b-d4fb4f691b8f/f09dd96f-e313-4d04-a35b-d4fb4f691b8f-16713988.png"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/os3-marino",
+      "slug": "os3-marino",
+      "file": "html/os3-marino.html",
+      "lastmod": "2026-07-21T14:47:02.146Z",
+      "final_url": "https://svr-mos.ru/os3-marino",
+      "lang": "ru",
+      "title": "ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+      "meta": {
+        "description": "ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)\nПроведение пусконаладочных работ очистных сооружений ливневой канализации\n\nВыполнено:\n\n🔎 Обследование построенных сооружений;\n\n🧪 Отбор проб сточных вод ливневой канализации;\n\n🧬 Проведение лабораторных испытаний;\n\n🔬 Определение показателей сточных вод;\n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей;\n\n🛠 Определение режимов работы;",
+      "sections": [
+        {
+          "id": "slider",
+          "type": "slider",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)\nПроведение пусконаладочных работ очистных сооружений ливневой канализации\n\nВыполнено:\n\n🔎 Обследование построенных сооружений;\n\n🧪 Отбор проб сточных вод ливневой канализации;\n\n🧬 Проведение лабораторных испытаний;\n\n🔬 Определение показателей сточных вод;\n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей;\n\n🛠 Определение режимов работы;"
+            }
+          ],
+          "text": "ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)\nПроведение пусконаладочных работ очистных сооружений ливневой канализации\n\nВыполнено:\n\n🔎 Обследование построенных сооружений;\n\n🧪 Отбор проб сточных вод ливневой канализации;\n\n🧬 Проведение лабораторных испытаний;\n\n🔬 Определение показателей сточных вод;\n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей;\n\n🛠 Определение режимов работы;",
+          "html": "<h2><b>ОС3 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)</b>\nПроведение пусконаладочных работ очистных сооружений ливневой канализации<br>\n<br>\n\nВыполнено: \n\n🔎 Обследование построенных сооружений; \n\n🧪 Отбор проб сточных вод ливневой канализации; \n\n🧬 Проведение лабораторных испытаний; \n\n🔬 Определение показателей сточных вод; \n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей; \n\n🛠 Определение режимов работы;<br>\n\n</h2>\n\n<ul><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/cd5db5c8-cac2-4e89-a5a9-02c97a2d7c91/cd5db5c8-cac2-4e89-a5a9-02c97a2d7c91-16714041.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/5850ce5a-f64d-4535-b46a-fc82884bfe66/5850ce5a-f64d-4535-b46a-fc82884bfe66-16714047.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/e2bf96a9-de2d-4ca2-b800-85a2ba3ad5ec/e2bf96a9-de2d-4ca2-b800-85a2ba3ad5ec-16714048.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/710ae571-f122-47fb-b274-867000a2688b/710ae571-f122-47fb-b274-867000a2688b-16714052.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/393007f9-39e8-4da0-87ad-673f199274b7/393007f9-39e8-4da0-87ad-673f199274b7-16714056.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/32bea2d1-7138-4e02-bc48-46752420010d/32bea2d1-7138-4e02-bc48-46752420010d-16714059.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d837123e-3f26-47ae-a7d8-a9b611a4ed6e/d837123e-3f26-47ae-a7d8-a9b611a4ed6e-16714064.jpeg\" alt=\"Изображение\">\n\n</li></ul>\n\n<ul></ul>",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/32bea2d1-7138-4e02-bc48-46752420010d/32bea2d1-7138-4e02-bc48-46752420010d-16714059.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/32bea2d1-7138-4e02-bc48-46752420010d/32bea2d1-7138-4e02-bc48-46752420010d-16714059.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/393007f9-39e8-4da0-87ad-673f199274b7/393007f9-39e8-4da0-87ad-673f199274b7-16714056.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/393007f9-39e8-4da0-87ad-673f199274b7/393007f9-39e8-4da0-87ad-673f199274b7-16714056.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/5850ce5a-f64d-4535-b46a-fc82884bfe66/5850ce5a-f64d-4535-b46a-fc82884bfe66-16714047.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/5850ce5a-f64d-4535-b46a-fc82884bfe66/5850ce5a-f64d-4535-b46a-fc82884bfe66-16714047.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/710ae571-f122-47fb-b274-867000a2688b/710ae571-f122-47fb-b274-867000a2688b-16714052.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/710ae571-f122-47fb-b274-867000a2688b/710ae571-f122-47fb-b274-867000a2688b-16714052.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/cd5db5c8-cac2-4e89-a5a9-02c97a2d7c91/cd5db5c8-cac2-4e89-a5a9-02c97a2d7c91-16714041.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/cd5db5c8-cac2-4e89-a5a9-02c97a2d7c91/cd5db5c8-cac2-4e89-a5a9-02c97a2d7c91-16714041.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d837123e-3f26-47ae-a7d8-a9b611a4ed6e/d837123e-3f26-47ae-a7d8-a9b611a4ed6e-16714064.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d837123e-3f26-47ae-a7d8-a9b611a4ed6e/d837123e-3f26-47ae-a7d8-a9b611a4ed6e-16714064.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/e2bf96a9-de2d-4ca2-b800-85a2ba3ad5ec/e2bf96a9-de2d-4ca2-b800-85a2ba3ad5ec-16714048.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/e2bf96a9-de2d-4ca2-b800-85a2ba3ad5ec/e2bf96a9-de2d-4ca2-b800-85a2ba3ad5ec-16714048.jpeg"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    },
+    {
+      "url": "https://svr-mos.ru/os2-marino",
+      "slug": "os2-marino",
+      "file": "html/os2-marino.html",
+      "lastmod": "2026-07-21T14:57:02.797Z",
+      "final_url": "https://svr-mos.ru/os2-marino",
+      "lang": "ru",
+      "title": "ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+      "meta": {
+        "description": "ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+        "keywords": "",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:title": "ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+        "og:description": "",
+        "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:title": "ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)",
+        "twitter:description": "",
+        "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/d78460b6-1726-4999-91ea-2c123e66d91c/d78460b6-1726-4999-91ea-2c123e66d91c-16448618.png",
+        "twitter:card": "summary_large_image"
+      },
+      "canonical": null,
+      "text": "ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)\n\nПроведение пусконаладочных работ очистных сооружений ливневой канализации\n\nВыполнено:\n🔎 Обследование построенных сооружений;\n\n🧪 Отбор проб сточных вод ливневой канализации;\n\n🧬 Проведение лабораторных испытаний;\n\n🔬 Определение показателей сточных вод;\n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей;\n\n🛠 Определение режимов работы;",
+      "sections": [
+        {
+          "id": "slider",
+          "type": "slider",
+          "subtype": null,
+          "headings": [
+            {
+              "level": 2,
+              "text": "ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)\n\nПроведение пусконаладочных работ очистных сооружений ливневой канализации\n\nВыполнено:\n🔎 Обследование построенных сооружений;\n\n🧪 Отбор проб сточных вод ливневой канализации;\n\n🧬 Проведение лабораторных испытаний;\n\n🔬 Определение показателей сточных вод;\n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей;\n\n🛠 Определение режимов работы;"
+            }
+          ],
+          "text": "ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)\n\nПроведение пусконаладочных работ очистных сооружений ливневой канализации\n\nВыполнено:\n🔎 Обследование построенных сооружений;\n\n🧪 Отбор проб сточных вод ливневой канализации;\n\n🧬 Проведение лабораторных испытаний;\n\n🔬 Определение показателей сточных вод;\n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей;\n\n🛠 Определение режимов работы;",
+          "html": "<h2>\n<b>ОС2 МАРЬИНО-САЛАРЬЕВО (II ЭТАП)</b><br>\n\nПроведение пусконаладочных работ очистных сооружений ливневой канализации<br>\n\n<br>\nВыполнено: \n🔎 Обследование построенных сооружений; \n\n🧪 Отбор проб сточных вод ливневой канализации; \n\n🧬 Проведение лабораторных испытаний; \n\n🔬 Определение показателей сточных вод; \n\n🖍 Маркировка оборудования;\n\n🔭 Выявление неисправностей; \n\n🛠 Определение режимов работы;\n</h2>\n\n<ul><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/1079a894-8150-4ce5-8062-e3d8783d4b67/1079a894-8150-4ce5-8062-e3d8783d4b67-16714125.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/547f9e27-0827-4af4-b08c-eaf187a9ec4c/547f9e27-0827-4af4-b08c-eaf187a9ec4c-16714126.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/0a17f040-cfbf-4113-85bd-2603bfee9a68/0a17f040-cfbf-4113-85bd-2603bfee9a68-16714127.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/bf711926-65a3-4bb9-8897-ee30949f6f01/bf711926-65a3-4bb9-8897-ee30949f6f01-16714130.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/590a7787-85fd-440d-b2bb-bf18d33cf91e/590a7787-85fd-440d-b2bb-bf18d33cf91e-16714131.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/8fcb6fc4-dcd5-4219-8ada-6cfc9a9d15e7/8fcb6fc4-dcd5-4219-8ada-6cfc9a9d15e7-16714135.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a54bf886-0c35-4e1d-8f1b-22570307782b/a54bf886-0c35-4e1d-8f1b-22570307782b-16714146.jpeg\" alt=\"Изображение\">\n\n</li><li>\n\n<img src=\"https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/3e9e4705-7312-445b-b50d-f8499838ab5f/3e9e4705-7312-445b-b50d-f8499838ab5f-16714147.jpeg\" alt=\"Изображение\">\n\n</li></ul>\n\n<ul></ul>",
+          "images": [
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/0a17f040-cfbf-4113-85bd-2603bfee9a68/0a17f040-cfbf-4113-85bd-2603bfee9a68-16714127.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/0a17f040-cfbf-4113-85bd-2603bfee9a68/0a17f040-cfbf-4113-85bd-2603bfee9a68-16714127.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/1079a894-8150-4ce5-8062-e3d8783d4b67/1079a894-8150-4ce5-8062-e3d8783d4b67-16714125.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/1079a894-8150-4ce5-8062-e3d8783d4b67/1079a894-8150-4ce5-8062-e3d8783d4b67-16714125.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/3e9e4705-7312-445b-b50d-f8499838ab5f/3e9e4705-7312-445b-b50d-f8499838ab5f-16714147.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/3e9e4705-7312-445b-b50d-f8499838ab5f/3e9e4705-7312-445b-b50d-f8499838ab5f-16714147.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/547f9e27-0827-4af4-b08c-eaf187a9ec4c/547f9e27-0827-4af4-b08c-eaf187a9ec4c-16714126.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/547f9e27-0827-4af4-b08c-eaf187a9ec4c/547f9e27-0827-4af4-b08c-eaf187a9ec4c-16714126.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/590a7787-85fd-440d-b2bb-bf18d33cf91e/590a7787-85fd-440d-b2bb-bf18d33cf91e-16714131.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/590a7787-85fd-440d-b2bb-bf18d33cf91e/590a7787-85fd-440d-b2bb-bf18d33cf91e-16714131.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/8fcb6fc4-dcd5-4219-8ada-6cfc9a9d15e7/8fcb6fc4-dcd5-4219-8ada-6cfc9a9d15e7-16714135.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/8fcb6fc4-dcd5-4219-8ada-6cfc9a9d15e7/8fcb6fc4-dcd5-4219-8ada-6cfc9a9d15e7-16714135.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a54bf886-0c35-4e1d-8f1b-22570307782b/a54bf886-0c35-4e1d-8f1b-22570307782b-16714146.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/a54bf886-0c35-4e1d-8f1b-22570307782b/a54bf886-0c35-4e1d-8f1b-22570307782b-16714146.jpeg"
+            },
+            {
+              "url": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/bf711926-65a3-4bb9-8897-ee30949f6f01/bf711926-65a3-4bb9-8897-ee30949f6f01-16714130.jpeg",
+              "file": "assets/90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1160494/bf711926-65a3-4bb9-8897-ee30949f6f01/bf711926-65a3-4bb9-8897-ee30949f6f01-16714130.jpeg"
+            }
+          ],
+          "links": []
+        }
+      ],
+      "internal_links": [
+        "https://svr-mos.ru/",
+        "https://svr-mos.ru/contact",
+        "https://svr-mos.ru/docs",
+        "https://svr-mos.ru/elteza",
+        "https://svr-mos.ru/obj",
+        "https://svr-mos.ru/os2-marino",
+        "https://svr-mos.ru/os3-marino",
+        "https://svr-mos.ru/prod",
+        "https://svr-mos.ru/rekvizit",
+        "https://svr-mos.ru/russkii"
+      ],
+      "external_links": []
+    }
+  ]
+}

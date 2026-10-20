@@ -1,0 +1,14 @@
+﻿17:19:43 Старт. Каталог: C:\l1bot\svr-mos.ru-backup  refresh=False
+17:19:43 [1] Метаданные: robots, sitemap, 404, редиректы, TLS
+17:19:46     sitemap: 11 URL
+17:19:46 [2] Страницы: sitemap + обход внутренних ссылок
+17:19:46 [3] Ресурсы: картинки, CSS, шрифты
+17:19:46     скачиваю 70 ресурсов...
+17:19:46     скачиваю 2 ресурсов...
+17:19:46     ресурсов: 72, ошибок: 0
+17:19:46 [4] API: /api/v3/products/blocks
+17:19:46     товаров из API: 0 из 0; вариантов: 0; отсутствуют: []
+17:19:46 [5] Структурированный экспорт
+17:19:46 [6] Проверка полноты
+17:19:47 Готово за 3 c. Файлов: 156, 41.4 МБ
+17:19:47 ИТОГ ПРОВЕРКИ: {"sitemap_urls": 11, "pages_fetched_ok": 11, "pages_failed": 0, "pages_outside_sitemap": 0, "pages_corrupt_all_nul": 0, "broken_internal_links": 0, "catalogs": 0, "assets_referenced": 72, "assets_ok": 72, "assets_failed": 0, "assets_missing_on_disk": 0, "products_total": 0, "products_without_page": 0, "products_without_images": 0, "products_missing_in_api": 0, "products_hidden": 0, "products_with_variants": 0, "products_not_listed_in_any_catalog": 0, "product_images_missing_on_disk": 0, "goods_images_not_linked_to_any_product": 0, "html_vs_api_mismatches": 0, "placeholder_descriptions": 0, "empty_descriptions": 0, "failures": 0}

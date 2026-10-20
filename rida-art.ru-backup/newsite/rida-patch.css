@@ -1,0 +1,127 @@
+/* Дополнение к rida.css. На сайте лежит в template-part rida-assets (<style id="r-patch">); фон — out/bg-toys.datauri.txt */
+:root{--r-rad:10px;--r-img:12px;--r-muted:#4F4B45;--wp--preset--color--accent-4:#4F4B45}
+/* читаемость: крупнее и плотнее текст */
+body{font-size:1.125rem!important;font-weight:450;color:var(--r-ink)}
+p,li,dd,td,th,label{font-weight:450}
+.r-lead,.rida-lead{font-size:clamp(1.12rem,1vw + .78rem,1.3rem)!important;color:var(--r-muted)!important;font-weight:450}
+.r-label,.r-posts .wp-block-post-terms,.r-posts .wp-block-post-date{font-size:.78rem!important;font-weight:600!important;color:var(--r-muted)!important}
+.r-header .wp-block-navigation{font-size:.98rem!important;font-weight:500!important}
+.r-link a,a.r-link{font-size:.98rem!important;font-weight:600!important}
+li.wc-block-product .wp-block-post-title{font-size:1.02rem!important;font-weight:500!important}
+.r-cat span{font-size:1.05rem!important;font-weight:500}
+.r-steps h3{font-size:1.3rem!important;font-weight:500!important}
+.r-steps p{font-size:1.04rem!important;color:var(--r-muted)!important}
+.r-rows dt,.r-rows .r-k{font-size:.82rem!important;font-weight:600!important}
+.r-rows dd{font-size:1.08rem}
+.r-faq summary{font-size:1.12rem!important;font-weight:500}
+.r-faq details p{font-size:1.05rem}
+.r-chips{font-size:1rem!important}.r-chips a{color:var(--r-muted)!important;font-weight:500}.r-chips a:hover,.r-chips a[aria-current]{color:var(--r-ink)!important}
+.wp-block-woocommerce-breadcrumbs,.r-shop-bar,.r-hero__media figcaption{font-size:.9rem!important;color:var(--r-muted)!important}
+.r-notes p{font-size:.98rem!important;color:var(--r-muted)!important}
+.r-product__info .wp-block-post-excerpt{font-size:1.1rem}
+.r-posts .wp-block-post-title{font-size:1.25rem!important;font-weight:500!important}
+.r-posts .wp-block-post-excerpt{font-size:1.02rem!important;color:var(--r-muted)!important}
+.r-article .wp-block-post-content{font-size:1.18rem!important}
+.r-footer{font-size:1rem!important}.r-footer h3{font-size:.78rem!important;font-weight:600!important;color:var(--r-muted)!important}.r-footer-brand p,.r-footer-bottom{color:var(--r-muted)!important}.r-footer-bottom{font-size:.85rem!important}
+.wp-block-button__link,.wp-element-button{font-weight:600!important}
+/* приветственный экран с фото (главная, wp:html section.r-welcome; фото — медиа 392) */
+.wp-block-post-content>.r-welcome:first-child,.r-welcome{margin-top:0!important}
+.r-welcome{position:relative;display:flex;align-items:flex-end;min-height:min(88vh,880px);overflow:hidden;color:#fff;background:#2B221C;margin-bottom:0!important}
+.r-welcome__img{position:absolute;inset:0;width:100%;height:100%!important;max-width:none;object-fit:cover;object-position:50% 42%;border-radius:0!important;animation:r-zoom 2.4s var(--r-ease) both}
+.r-welcome::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(26,19,14,.74) 0%,rgba(26,19,14,.5) 34%,rgba(26,19,14,.08) 66%,rgba(26,19,14,0) 100%),linear-gradient(0deg,rgba(26,19,14,.5) 0%,rgba(26,19,14,0) 42%)}
+.r-welcome__in{position:relative;z-index:1;width:100%;max-width:1360px;margin:0 auto;padding:0 max(var(--wp--style--root--padding-left,24px),20px) clamp(48px,9vh,104px)}
+.r-welcome .r-label{color:rgba(255,255,255,.85)!important}
+.r-welcome h1{color:#fff;font-size:clamp(2.6rem,5.8vw,5.6rem)!important;line-height:1!important;letter-spacing:-.045em!important;font-weight:400;max-width:11ch;margin:0 0 1.4rem!important;text-shadow:0 2px 24px rgba(0,0,0,.25)}
+.r-welcome__lead{color:rgba(255,255,255,.9)!important;font-size:clamp(1.08rem,1vw + .75rem,1.28rem)!important;line-height:1.65!important;max-width:33rem;margin:0!important;text-shadow:0 1px 12px rgba(0,0,0,.3)}
+.r-welcome__btns{display:flex;flex-wrap:wrap;gap:12px;margin-top:2.2rem}
+.r-btn{display:inline-flex;align-items:center;justify-content:center;min-height:54px;padding:0 30px;border-radius:var(--r-rad);background:#F6F4EF;color:#1C1C1A!important;font-weight:600;font-size:.98rem;text-decoration:none!important;border:1px solid #F6F4EF;transition:background-color .3s,color .3s,border-color .3s}
+.r-btn:hover{background:#fff;border-color:#fff}
+.r-btn--ghost{background:transparent;color:#fff!important;border-color:rgba(255,255,255,.75)}
+.r-btn--ghost:hover{background:rgba(255,255,255,.14);border-color:#fff}
+.r-welcome+.r-section--top0{padding-top:var(--r-sec)!important}
+@keyframes r-zoom{from{transform:scale(1.06)}to{transform:none}}
+@media (max-width:781px){.r-welcome{min-height:88svh}.r-welcome__img{object-position:50% 38%}.r-welcome::after{background:linear-gradient(0deg,rgba(26,19,14,.84) 0%,rgba(26,19,14,.55) 38%,rgba(26,19,14,0) 68%)}.r-welcome__in{padding-bottom:40px}.r-welcome h1{font-size:clamp(2.4rem,11vw,3.3rem)!important}.r-btn{flex:1 1 auto;min-height:50px;padding:0 20px}}
+/* классическое оформление заказа (модуль Т-Банка не поддерживает блочное) */
+.r-checkout-note{background:var(--r-alt);border-radius:var(--r-rad);padding:18px 22px!important;margin-bottom:28px!important;font-size:1rem;line-height:1.6}
+.r-checkout-note p{margin:0}
+.woocommerce-checkout #payment{background:var(--r-alt)!important;border-radius:var(--r-img)!important}
+.woocommerce-checkout #payment div.payment_box{background:var(--r-bg)!important;border-radius:var(--r-rad)!important;font-size:.95rem}
+.woocommerce-checkout #payment div.payment_box::before{display:none}
+.woocommerce-checkout #place_order{background:var(--r-ink)!important;color:var(--r-bg)!important;border-radius:var(--r-rad)!important;padding:1.05em 2.4em!important;font-weight:600;width:100%}
+.woocommerce-checkout #place_order:hover{background:var(--r-accent)!important}
+.woocommerce-checkout #shipping_method li{margin-bottom:6px!important}
+.woocommerce-checkout #billing_country_field{display:none!important}
+/* доставка: стоимость сообщает оператор, в сумму не входит (rida-assets подключён и в странице checkout id 10) */
+.wp-block-woocommerce-checkout-shipping-methods-block .wc-block-components-radio-control__secondary-label,.wc-block-components-totals-shipping .wc-block-components-radio-control__secondary-label{font-size:0!important}
+.wp-block-woocommerce-checkout-shipping-methods-block .wc-block-components-radio-control__secondary-label::after,.wc-block-components-totals-shipping .wc-block-components-radio-control__secondary-label::after{content:"по тарифу";font-size:.9rem;color:var(--r-muted);font-weight:500}
+.wc-block-components-totals-shipping .wc-block-components-totals-item__value{font-size:0!important}
+.wc-block-components-totals-shipping .wc-block-components-totals-item__value::after{content:"не входит в сумму";font-size:.9rem;color:var(--r-muted);font-weight:500}
+.wc-block-components-checkout-step__description{font-size:1rem!important;color:var(--r-muted)!important;line-height:1.6}
+/* шапка: размытие на ::before, иначе backdrop-filter запирает мобильное меню внутри шапки */
+.r-header{background:transparent!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important;position:relative;isolation:isolate}
+.r-header::before{content:"";position:absolute;inset:0;z-index:-1;background:color-mix(in srgb,var(--r-bg) 94%,transparent);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
+.wp-block-navigation__responsive-container.is-menu-open{position:fixed!important;inset:0!important;width:100%!important;height:100dvh!important;overflow-y:auto!important;z-index:100000!important;box-sizing:border-box!important;padding:20px 24px 40px!important}
+.is-menu-open .wp-block-navigation__responsive-container-content{align-items:flex-start!important;padding-top:56px!important}
+.is-menu-open .wp-block-navigation__container,.is-menu-open .wp-block-navigation-item{align-items:flex-start!important;text-align:left!important;justify-content:flex-start!important;gap:14px!important}
+.is-menu-open .wp-block-navigation-item__content{font-size:1.6rem!important;letter-spacing:-.02em;padding:2px 0!important}
+.is-menu-open .wp-block-navigation-item__content::after{display:none}
+.r-header .is-menu-open .wp-block-navigation__submenu-container{border:0!important;padding:4px 0 10px 2px!important;min-width:0!important;background:transparent!important;gap:4px!important}
+.r-header .is-menu-open .wp-block-navigation__submenu-container .wp-block-navigation-item__content{font-size:1.05rem!important;color:var(--r-muted)!important;padding:3px 0!important}
+.is-menu-open .wp-block-navigation__responsive-container-close{top:18px!important;right:20px!important}
+.is-menu-open .wp-block-navigation__responsive-container-close svg{width:28px;height:28px}
+@media (max-width:600px){header.wp-block-template-part{top:0!important}}
+/* фон: __BG__ = out/bg-toys-v2.datauri.txt (детальный узор, bg-toys-v2.svg); прежний вариант — bg-toys.svg, размер 600px */
+body{background-image:url("data:image/svg+xml,__BG__");background-size:988px 988px;background-repeat:repeat}
+.r-cat img,.r-hero__media img,.r-split img{height:auto!important}
+.r-quote{font-size:clamp(1.5rem,2.6vw,2.3rem)!important;line-height:1.3!important;letter-spacing:-.02em;max-width:48rem;margin:0!important}
+.r-page-head>*:last-child{margin-bottom:0}.r-rows dd>p:last-child{margin-bottom:0}
+.r-product__cols .woocommerce-product-gallery,.r-product__cols .wp-block-woocommerce-product-image-gallery{width:100%!important;max-width:none!important;float:none!important;margin:0!important}
+input[type=text],input[type=email],input[type=tel],input[type=number],input[type=search],textarea,select{background-color:var(--r-bg)!important}
+.r-product__cols .woocommerce-product-gallery__image img{width:100%!important;height:auto!important}
+.woocommerce-product-gallery__trigger{background:var(--r-bg)!important}
+.wp-block-woocommerce-product-details .woocommerce-Tabs-panel>h2:first-child{display:none}
+.wp-block-woocommerce-product-details .wc-tabs li{border:0!important;background:none!important}
+.wp-block-woocommerce-product-details .wc-tabs li.active a{border-bottom:1px solid var(--r-ink)}
+.wp-block-query-pagination{margin-top:clamp(48px,6vw,80px)!important;gap:8px 20px!important;font-size:.9rem}
+.wp-block-query-pagination-numbers{display:flex;gap:16px}
+.wp-block-query-pagination a{text-decoration:none;color:var(--r-muted)}
+.wp-block-query-pagination a:hover,.wp-block-query-pagination .current{color:var(--r-ink)}
+.wp-block-query-pagination .current{border-bottom:1px solid var(--r-ink)}
+/* закругления */
+.wp-element-button,.wp-block-button__link,.button,.wc-block-components-button,input[type=submit],.single-product form.cart .single_add_to_cart_button,.single-product .wp-block-woocommerce-add-to-cart-form .button{border-radius:var(--r-rad)!important}
+input[type=text],input[type=email],input[type=tel],input[type=number],input[type=search],textarea,select,.single-product form.cart .quantity input,.wc-block-components-text-input input,.wc-block-components-quantity-selector{border-radius:var(--r-rad)!important}
+.r-cat figure,.r-hero__media img,.r-split img,.wc-block-components-product-image,.r-posts .wp-block-post-featured-image,.r-article .wp-block-post-featured-image,.r-article .wp-block-post-content img,.wp-block-image img,.woocommerce-product-gallery .flex-viewport,.woocommerce-product-gallery__image,.woocommerce-product-gallery__image img,.woocommerce-product-gallery .flex-control-thumbs img,.wc-block-components-product-image img,li.wc-block-product .wc-block-components-product-image,li.wc-block-product .wc-block-components-product-image img{border-radius:var(--r-img)!important;overflow:hidden}
+.woocommerce-product-gallery__trigger,.wc-block-components-product-sale-badge{border-radius:999px!important}
+.r-header .wp-block-navigation__submenu-container{border-radius:var(--r-rad)!important}
+/* карточка товара в сетке: цена слева, кнопка справа */
+li.wc-block-product{display:grid!important;grid-template-columns:minmax(0,1fr) auto;grid-template-rows:auto 1fr auto;column-gap:10px;align-content:stretch;height:100%}
+li.wc-block-product>.wp-block-post-title{align-self:start;margin:0 0 18px!important}
+li.wc-block-product>.wp-block-woocommerce-product-button{min-height:38px;display:flex!important;align-items:center;justify-content:flex-end}
+li.wc-block-product>*{grid-column:1/-1}
+li.wc-block-product>.wp-block-woocommerce-product-price{grid-column:1;align-self:center;margin:0!important}
+li.wc-block-product>.wp-block-woocommerce-product-button{grid-column:2;display:block!important;margin:0!important;align-self:center;text-align:right!important}
+li.wc-block-product .wc-block-components-product-button__button{display:inline-flex!important;align-items:center;justify-content:center;gap:7px;min-height:38px;padding:0 14px!important;margin:0!important;font-size:.8rem!important;font-weight:500!important;line-height:1!important;letter-spacing:.01em;white-space:nowrap;text-decoration:none!important;background:var(--r-ink)!important;color:var(--r-bg)!important;border:1px solid var(--r-ink)!important;box-shadow:none!important;transition:background-color .3s,color .3s,border-color .3s,transform .2s!important}
+li.wc-block-product .wc-block-components-product-button__button::before{content:"";flex:none;width:16px;height:16px;background:currentColor;-webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='1.7' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 8.5h14l-1.1 11.7H6.1z'/%3E%3Cpath d='M9 10.5V7a3 3 0 0 1 6 0v3.5'/%3E%3C/svg%3E") center/contain no-repeat;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='1.7' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 8.5h14l-1.1 11.7H6.1z'/%3E%3Cpath d='M9 10.5V7a3 3 0 0 1 6 0v3.5'/%3E%3C/svg%3E") center/contain no-repeat}
+li.wc-block-product:hover .wc-block-components-product-button__button{border-color:var(--r-ink)!important}
+li.wc-block-product .wc-block-components-product-button__button:hover,li.wc-block-product .wc-block-components-product-button__button.added{background:var(--r-accent)!important;color:#fff!important;border-color:var(--r-accent)!important}
+li.wc-block-product .wc-block-components-product-price,li.wc-block-product .wp-block-woocommerce-product-price{color:var(--r-ink)!important;font-size:1.02rem!important;font-weight:600!important;letter-spacing:-.01em}
+li.wc-block-product .wc-block-components-product-price del{color:var(--r-muted)!important;font-weight:400!important;font-size:.85em}
+li.wc-block-product .wc-block-components-product-price ins{color:#9B2C2C!important;text-decoration:none}
+li.wc-block-product .wc-block-components-product-button__button:active{transform:scale(.96)}
+li.wc-block-product .wc-block-components-product-button__button.loading{opacity:.6}
+li.wc-block-product .product_type_variable>span{display:none}
+li.wc-block-product .product_type_variable::after{content:"Выбрать"}
+li.wc-block-product a.wc-block-components-product-button__button:not(.add_to_cart_button)>span{display:none}
+li.wc-block-product a.wc-block-components-product-button__button:not(.add_to_cart_button)::after{content:"Подробнее"}
+li.wc-block-product a.wc-block-components-product-button__button:not(.add_to_cart_button){background:transparent!important;border-color:transparent!important;color:var(--r-muted)!important;padding:0 2px!important;text-decoration:underline!important;text-underline-offset:3px}
+li.wc-block-product a.wc-block-components-product-button__button:not(.add_to_cart_button):hover{background:transparent!important;color:var(--r-ink)!important}
+li.wc-block-product a.wc-block-components-product-button__button:not(.add_to_cart_button)::before{display:none}
+li.wc-block-product .added_to_cart{display:none!important}
+@media (max-width:1100px) and (min-width:782px){li.wc-block-product .add_to_cart_button>span,li.wc-block-product .product_type_variable::after{display:none}li.wc-block-product .add_to_cart_button{width:38px!important;min-width:38px!important;padding:0!important;gap:0}}
+@media (max-width:781px){
+ .r-hero .wp-block-columns{flex-direction:column!important}.r-hero__media{margin-top:8px}.r-hero__media img{aspect-ratio:1}
+ li.wc-block-product .add_to_cart_button{width:38px!important;min-width:38px!important;min-height:38px;padding:0!important;gap:0}
+ li.wc-block-product .add_to_cart_button>span,li.wc-block-product .product_type_variable::after{display:none}
+ li.wc-block-product a.wc-block-components-product-button__button:not(.add_to_cart_button){display:none!important}
+ body{background-size:760px 760px}
+}

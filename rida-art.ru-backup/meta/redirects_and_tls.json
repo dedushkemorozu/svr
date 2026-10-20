@@ -1,0 +1,71 @@
+{
+  "redirect_checks": [
+    {
+      "url": "http://rida-art.ru/",
+      "status": 301,
+      "location": "https://rida-art.ru/"
+    },
+    {
+      "url": "http://www.rida-art.ru/",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.rida-art.ru/",
+      "error": "SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)')"
+    },
+    {
+      "url": "https://rida-art.ru/index.html",
+      "status": 301,
+      "location": "https://rida-art.ru/"
+    },
+    {
+      "url": "https://rida-art.ru/angels/",
+      "status": 301,
+      "location": "https://rida-art.ru/angels"
+    }
+  ],
+  "tls": {
+    "protocol": "TLSv1.2",
+    "subject": [
+      [
+        [
+          "commonName",
+          "rida-art.ru"
+        ]
+      ]
+    ],
+    "issuer": [
+      [
+        [
+          "countryName",
+          "US"
+        ]
+      ],
+      [
+        [
+          "organizationName",
+          "Let's Encrypt"
+        ]
+      ],
+      [
+        [
+          "commonName",
+          "YR2"
+        ]
+      ]
+    ],
+    "notBefore": "Sep  5 23:20:02 2026 GMT",
+    "notAfter": "Dec  4 23:20:01 2026 GMT",
+    "subjectAltName": [
+      [
+        "DNS",
+        "rida-art.ru"
+      ]
+    ]
+  },
+  "resolved_ips": [
+    "85.119.149.37"
+  ],
+  "favicon_ico_status": 404
+}

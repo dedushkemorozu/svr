@@ -1,0 +1,245 @@
+{
+  "menu": [
+    {
+      "text": "Главная",
+      "href": "https://rida-art.ru"
+    },
+    {
+      "text": "Новинки",
+      "href": "https://rida-art.ru/new"
+    },
+    {
+      "text": "Весенняя коллекция",
+      "href": "https://rida-art.ru/spring"
+    },
+    {
+      "text": "Ангелы",
+      "href": "https://rida-art.ru/angels"
+    },
+    {
+      "text": "Домики",
+      "href": "https://rida-art.ru/houses"
+    },
+    {
+      "text": "Маяки",
+      "href": "https://rida-art.ru/mayak"
+    },
+    {
+      "text": "Птицы",
+      "href": "https://rida-art.ru/birds"
+    },
+    {
+      "text": "Лошадки",
+      "href": "https://rida-art.ru/horse"
+    },
+    {
+      "text": "Грибы",
+      "href": "https://rida-art.ru/mush"
+    },
+    {
+      "text": "Контакты",
+      "href": "https://rida-art.ru/contacts"
+    },
+    {
+      "text": "Доставка",
+      "href": "https://rida-art.ru/delivery-payment"
+    }
+  ],
+  "footer": {
+    "text": "Рида Арт 2012 — 2025 ©\n\nГлавная\n\nКаталог\n\nДоставка и оплата\n\nОбмен и возврат\n\nКонтакты\n\n8 (929) 644-20-08\n\nАдрес\nМосква, м. «Ростокино»,\nул. Енисейская, д. 2, стр. 2",
+    "links": [
+      {
+        "text": "Главная",
+        "href": "https://rida-art.ru"
+      },
+      {
+        "text": "Каталог",
+        "href": "https://rida-art.ru/angels"
+      },
+      {
+        "text": "Доставка и оплата",
+        "href": "https://rida-art.ru/delivery-payment"
+      },
+      {
+        "text": "Обмен и возврат",
+        "href": "https://rida-art.ru/returns"
+      },
+      {
+        "text": "Контакты",
+        "href": "https://rida-art.ru/contacts"
+      }
+    ]
+  },
+  "contacts": {
+    "text": "Контакты\n\nАдрес\n\nМосква, м. «Ростокино»,\nул. Енисейская, д. 2, стр. 2\n\nВремя работы\n\nПн—Пт: 10:00—18:00\nСб—Вс: выходные\n\n8 (929) 644-20-08"
+  },
+  "custom_scripts": [
+    {
+      "id": "yandex-metrica-script",
+      "html": "<div class=\"sb-container sb-container_no-position\"><script type=\"text/javascript\">\n           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n           (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n           ym(103283050, \"init\", {\n                id:103283050,\n                clickmap:true,\n                trackLinks:true,\n                webvisor:true,\n                accurateTrackBounce:true,\n                ecommerce:\"dataLayer\"\n           });\n        </script><noscript><div><img src=\"https://mc.yandex.ru/watch/103283050\" style=\"position:absolute; left:-9999px;\" alt=\"\"></div></noscript></div>"
+    }
+  ],
+  "maps": [
+    {
+      "markers": [
+        {
+          "name": "Енисейская улица, 2с2",
+          "coords": [
+            "55.851935",
+            "37.67007"
+          ],
+          "description": "Москва, Россия"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "16x16",
+      "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/815c4cc9-816a-4235-8c19-c3a11c255df2/815c4cc9-816a-4235-8c19-c3a11c255df2-14642633.png"
+    },
+    {
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "32x32",
+      "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/815c4cc9-816a-4235-8c19-c3a11c255df2/815c4cc9-816a-4235-8c19-c3a11c255df2-14642634.png"
+    },
+    {
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "120x120",
+      "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/815c4cc9-816a-4235-8c19-c3a11c255df2/815c4cc9-816a-4235-8c19-c3a11c255df2-14642631.png"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "type": "image/png",
+      "sizes": "120x120",
+      "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/815c4cc9-816a-4235-8c19-c3a11c255df2/815c4cc9-816a-4235-8c19-c3a11c255df2-14642631.png"
+    },
+    {
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "180x180",
+      "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/815c4cc9-816a-4235-8c19-c3a11c255df2/815c4cc9-816a-4235-8c19-c3a11c255df2-14642632.png"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "type": "image/png",
+      "sizes": "180x180",
+      "href": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/815c4cc9-816a-4235-8c19-c3a11c255df2/815c4cc9-816a-4235-8c19-c3a11c255df2-14642632.png"
+    }
+  ],
+  "logos": [
+    [
+      "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/0cf4763f-5061-4525-a36a-93d31b99bf9e/0cf4763f-5061-4525-a36a-93d31b99bf9e-14642701.png"
+    ],
+    [
+      "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/a619131d-ca8e-4b40-99f8-75e73aacbd79/a619131d-ca8e-4b40-99f8-75e73aacbd79-14713979.png"
+    ]
+  ],
+  "forms_found_on": [],
+  "tbConfig": {
+    "inFrame": false,
+    "enableLazyLoading": false,
+    "enableJsLazyLoading": true,
+    "enableDynamicGoods": true,
+    "isPreviewMode": false,
+    "posScriptUrl": "https://forma.tinkoff.ru/static/onlineScript.js",
+    "enableMessengerLazyLoading": true,
+    "hasPromocodes": false,
+    "styleChunksSplitting": true,
+    "yandexMapsApiKey": "a9eba83c-b342-4dfe-ab11-2c7cbd6839cb",
+    "yaMetricsCounter": "103283050",
+    "staticPath": "https://660c827d-ce04-4b4c-80d1-1d6200e5d4c5.selcdn.net/tb/0.1.940",
+    "enableUserAnimations": false
+  },
+  "meta": {
+    "description": "Рида арт - мастерская сказочных игрушек",
+    "keywords": "оригинальные подарки, сказочные игрушки, корпоративные подарки",
+    "viewport": "width=device-width, initial-scale=1",
+    "og:title": "Мастерская сказочных подарков",
+    "og:description": "Рида арт - мастерская сказочных игрушек",
+    "og:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/0cf4763f-5061-4525-a36a-93d31b99bf9e/0cf4763f-5061-4525-a36a-93d31b99bf9e-14642701.png",
+    "twitter:title": "Мастерская сказочных подарков",
+    "twitter:description": "Рида арт - мастерская сказочных игрушек",
+    "twitter:image": "https://90f1661d-2ff4-4f29-b07c-0e47453ca691.selstorage.ru/site1060829/0cf4763f-5061-4525-a36a-93d31b99bf9e/0cf4763f-5061-4525-a36a-93d31b99bf9e-14642701.png",
+    "twitter:card": "summary_large_image"
+  },
+  "phones": [
+    "8 (929) 644-20-08"
+  ],
+  "section_types": [
+    {
+      "type": "advantages",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "contacts",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "contacts-extensible",
+      "subtype": null,
+      "count": 1
+    },
+    {
+      "type": "footer-customer",
+      "subtype": null,
+      "count": 103
+    },
+    {
+      "type": "header",
+      "subtype": null,
+      "count": 115
+    },
+    {
+      "type": "history",
+      "subtype": null,
+      "count": 3
+    },
+    {
+      "type": "main",
+      "subtype": null,
+      "count": 2
+    },
+    {
+      "type": "product-page",
+      "subtype": "type-1",
+      "count": 92
+    },
+    {
+      "type": "product-services",
+      "subtype": "type-6",
+      "count": 1
+    },
+    {
+      "type": "script",
+      "subtype": null,
+      "count": 115
+    },
+    {
+      "type": "services",
+      "subtype": "type-2",
+      "count": 1
+    },
+    {
+      "type": "services",
+      "subtype": "type-6",
+      "count": 13
+    },
+    {
+      "type": "text",
+      "subtype": null,
+      "count": 8
+    },
+    {
+      "type": "text-list",
+      "subtype": null,
+      "count": 3
+    }
+  ]
+}

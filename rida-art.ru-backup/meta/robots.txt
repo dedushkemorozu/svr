@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/
+Sitemap: https://rida-art.ru/sitemap.xml
+Host: https://rida-art.ru

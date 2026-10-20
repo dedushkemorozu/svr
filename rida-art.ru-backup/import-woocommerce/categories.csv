@@ -1,0 +1,16 @@
+name,slug,parent_slug,old_url,products_imported
+Новинки,new,,/new,10
+Ангелы,angels,,/angels,25
+Домики,houses,,/houses,8
+Маяки,mayak,,/mayak,4
+Птицы,birds,,/birds,11
+Лошадки,horse,,/horse,5
+Грибы,mush,,/mush,8
+Наборы,nabory,,/nabory,6
+Весенняя и пасхальная коллекция,spring,,/spring,0
+Пасхальные стеклянные яйца с росписью,easter-glass-eggs,spring,/page97,8
+Пасхальные деревянные яйца с росписью,easter-wooden-eggs,spring,/page98,5
+Пасхальные ангелы,easter-angels,spring,/page99,4
+Пасхальные подвески,easter-pendants,spring,/page100,6
+Пасхальные наборы,easter-sets,spring,/page101,12
+Новогодние подарки,new-year,,/new_year,0

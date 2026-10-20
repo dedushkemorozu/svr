@@ -1,0 +1,552 @@
+{
+  "generated": "2026-10-20T14:18:09+00:00",
+  "start": "http://www.svr-mos.ru/",
+  "files_ok": 55,
+  "failed": [
+    {
+      "url": "http://www.svr-mos.ru/link3.html",
+      "status": 404,
+      "bytes": 314,
+      "content_type": "text/html; charset=iso-8859-1",
+      "last_modified": null
+    },
+    {
+      "url": "http://www.svr-mos.ru/page/new.html",
+      "status": 404,
+      "bytes": 314,
+      "content_type": "text/html; charset=iso-8859-1",
+      "last_modified": null
+    },
+    {
+      "url": "http://www.svr-mos.ru/res/css/white-space",
+      "status": 404,
+      "bytes": 314,
+      "content_type": "text/html; charset=iso-8859-1",
+      "last_modified": null
+    }
+  ],
+  "external_links": [
+    "http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400italic,400,600,600italic,700,700italic,800,800italic",
+    "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Afcc106049642886f40b4502e4ac9c690a0974c414d151d90b6b4714628859305&width=1400&height=513&lang=ru_RU&scroll=true",
+    "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=mymaps%3AH8IDOEELwoN9x_eiVYC4QOrGhh0_5byM&width=683&height=480&lang=ru_RU&scroll=true",
+    "https://yandex.ru/maps/213/moscow/house/yaroslavskoye_shosse_42/Z04YcQdgT00DQFtvfXR3dXxkYg%3D%3D/?ll=37.701580%2C55.864745&utm_source=main_stripe_big&z=16.98"
+  ],
+  "files": [
+    {
+      "url": "http://www.svr-mos.ru/",
+      "status": 200,
+      "bytes": 4871,
+      "content_type": "text/html",
+      "last_modified": "Sat, 21 Feb 2026 12:16:06 GMT",
+      "file": "index.html",
+      "sha256": "68c0aa89fc99fe7843b95ff3f902efafd37f28482b5f04354635b6f04dec79f8"
+    },
+    {
+      "url": "http://www.svr-mos.ru/SVR%20contacts.html",
+      "status": 200,
+      "bytes": 10286,
+      "content_type": "text/html",
+      "last_modified": "Sun, 20 Jul 2025 22:06:21 GMT",
+      "file": "SVR contacts.html",
+      "sha256": "137904d5d8e5c2a48a3e2dd758615b5ee985977e64bb01535dcd8e6531b37bff"
+    },
+    {
+      "url": "http://www.svr-mos.ru/link3.html",
+      "status": 404,
+      "bytes": 314,
+      "content_type": "text/html; charset=iso-8859-1",
+      "last_modified": null
+    },
+    {
+      "url": "http://www.svr-mos.ru/images/img_2.png",
+      "status": 200,
+      "bytes": 747344,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 12:08:16 GMT",
+      "file": "images/img_2.png",
+      "sha256": "99099b10d2743587a5a6fb206d24ee855d31e469da151b505de4186c9d26edea"
+    },
+    {
+      "url": "http://www.svr-mos.ru/LGO1.png",
+      "status": 200,
+      "bytes": 623045,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 15:58:43 GMT",
+      "file": "LGO1.png",
+      "sha256": "39bb0b18cc03be236bb42086e208f07ae67ade7cafec200033736de4bf888d74"
+    },
+    {
+      "url": "http://www.svr-mos.ru/res/css/style.css",
+      "status": 200,
+      "bytes": 2425,
+      "content_type": "text/css",
+      "last_modified": "Sun, 20 Jul 2025 15:49:26 GMT",
+      "file": "res/css/style.css",
+      "sha256": "639adaf2a0690e6c6e0b6f315d107a204b7246b7bd0fb0353dbdbb017df8c460"
+    },
+    {
+      "url": "http://www.svr-mos.ru/OOO%20SVR.pdf",
+      "status": 200,
+      "bytes": 92827,
+      "content_type": "application/pdf",
+      "last_modified": "Sun, 20 Jul 2025 18:00:30 GMT",
+      "file": "OOO SVR.pdf",
+      "sha256": "7cb03ae96fee3e364d32cc193b663dac5a3de7ce27b7e44c2a82e8e6345248d3"
+    },
+    {
+      "url": "http://www.svr-mos.ru/images/img_5.png",
+      "status": 200,
+      "bytes": 788114,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 12:08:15 GMT",
+      "file": "images/img_5.png",
+      "sha256": "bbca12d47aa9cbd77e8d1dd54afec9b40dc372f6642e7d4d3764a351748f0cb4"
+    },
+    {
+      "url": "http://www.svr-mos.ru/page/new.html",
+      "status": 404,
+      "bytes": 314,
+      "content_type": "text/html; charset=iso-8859-1",
+      "last_modified": null
+    },
+    {
+      "url": "http://www.svr-mos.ru/images/img_1.png",
+      "status": 200,
+      "bytes": 573528,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 11:11:47 GMT",
+      "file": "images/img_1.png",
+      "sha256": "cb2bdfe3bb7335038ade3a4064bc064b3fab42077cf17495380d778e0848c58e"
+    },
+    {
+      "url": "http://www.svr-mos.ru/SVR%20Obiekt.html",
+      "status": 200,
+      "bytes": 8164,
+      "content_type": "text/html",
+      "last_modified": "Sun, 20 Jul 2025 16:46:11 GMT",
+      "file": "SVR Obiekt.html",
+      "sha256": "0ba272d5e7175db1abccad11ef1ea9285f62f9ba2c7d37cd1045ad3c36e674b5"
+    },
+    {
+      "url": "http://www.svr-mos.ru/images/img_3.png",
+      "status": 200,
+      "bytes": 1063143,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 12:08:16 GMT",
+      "file": "images/img_3.png",
+      "sha256": "40dcc0b59a0aee940326e7c6c18276dcdd248512a33f27b08d8be7540be3c58a"
+    },
+    {
+      "url": "http://www.svr-mos.ru/images/img_4.png",
+      "status": 200,
+      "bytes": 780853,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 12:08:15 GMT",
+      "file": "images/img_4.png",
+      "sha256": "8eeb78a349bf0f44f083d185feb66176f4fad7a8df7451af0da4c185adbee513"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Background/Plan1.png",
+      "status": 200,
+      "bytes": 15296,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 15:40:18 GMT",
+      "file": "Background/Plan1.png",
+      "sha256": "1e11f12421844cd064a6d785deb040dce2d32a193cde756d47de37509bc30924"
+    },
+    {
+      "url": "http://www.svr-mos.ru/index.html",
+      "status": 200,
+      "bytes": 4871,
+      "content_type": "text/html",
+      "last_modified": "Sat, 21 Feb 2026 12:16:06 GMT",
+      "file": "index.html",
+      "sha256": "68c0aa89fc99fe7843b95ff3f902efafd37f28482b5f04354635b6f04dec79f8"
+    },
+    {
+      "url": "http://www.svr-mos.ru/product.html",
+      "status": 200,
+      "bytes": 12032,
+      "content_type": "text/html",
+      "last_modified": "Sat, 21 Feb 2026 16:20:48 GMT",
+      "file": "product.html",
+      "sha256": "22342b57c825a403061665e8d04e86ce002bca8f80e0420afe1d33ce8cd58b4e"
+    },
+    {
+      "url": "http://www.svr-mos.ru/res/css/reset.css",
+      "status": 200,
+      "bytes": 1004,
+      "content_type": "text/css",
+      "last_modified": "Sun, 20 Jul 2025 15:49:26 GMT",
+      "file": "res/css/reset.css",
+      "sha256": "f9e29942e7a6f17ad2364b631353cbd2e14a52f9b840cf42095d36072ffecdfe"
+    },
+    {
+      "url": "http://www.svr-mos.ru/res/css/animation.css",
+      "status": 200,
+      "bytes": 3713,
+      "content_type": "text/css",
+      "last_modified": "Sun, 20 Jul 2025 15:49:26 GMT",
+      "file": "res/css/animation.css",
+      "sha256": "6a73a30a802319bb948757d285abf1cf3ca6a034d10b168f7311bfccbdcf676f"
+    },
+    {
+      "url": "http://www.svr-mos.ru/res/css/white-space",
+      "status": 404,
+      "bytes": 314,
+      "content_type": "text/html; charset=iso-8859-1",
+      "last_modified": null
+    },
+    {
+      "url": "http://www.svr-mos.ru/SVR%20Obiekt%C2%A0Ruza.html",
+      "status": 200,
+      "bytes": 11688,
+      "content_type": "text/html",
+      "last_modified": "Sun, 20 Jul 2025 16:27:15 GMT",
+      "file": "SVR Obiekt Ruza.html",
+      "sha256": "f7f8f22694dce4a1a296002b5310cfbe6d1a2a4f5066c180455edaf1fb223359"
+    },
+    {
+      "url": "http://www.svr-mos.ru/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS2.html",
+      "status": 200,
+      "bytes": 11793,
+      "content_type": "text/html",
+      "last_modified": "Sun, 20 Jul 2025 21:01:57 GMT",
+      "file": "SVR Obiekt Novoya MoskvaOS2.html",
+      "sha256": "7cdddfffd99acaa3bf52b4dca6966a520e0ce181b6709e4f1b888ba352503532"
+    },
+    {
+      "url": "http://www.svr-mos.ru/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3.html",
+      "status": 200,
+      "bytes": 11743,
+      "content_type": "text/html",
+      "last_modified": "Sun, 20 Jul 2025 16:27:15 GMT",
+      "file": "SVR Obiekt Novoya MoskvaOS3.html",
+      "sha256": "b1df1a38e5a3838513d7626fcd47d378444ce814d255c67e88c7013057284c67"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Elteza.html",
+      "status": 200,
+      "bytes": 11831,
+      "content_type": "text/html",
+      "last_modified": "Sun, 20 Jul 2025 16:48:05 GMT",
+      "file": "Elteza.html",
+      "sha256": "56d4d40bb52c59a55a5bcad21a77b5bfbfe68c604bea320adc0e50ab7aa509c1"
+    },
+    {
+      "url": "http://www.svr-mos.ru/8.png",
+      "status": 200,
+      "bytes": 146730,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 15:58:13 GMT",
+      "file": "8.png",
+      "sha256": "8cc38a11bd10c5cb903e0b3545b948373ffb11a8f250c00449c57539fe7c854f"
+    },
+    {
+      "url": "http://www.svr-mos.ru/7_3.png",
+      "status": 200,
+      "bytes": 146602,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 14:26:42 GMT",
+      "file": "7_3.png",
+      "sha256": "331ca7f081d7847217523477d01d6fc02db7637cd229275b665b3e195e9c9ca4"
+    },
+    {
+      "url": "http://www.svr-mos.ru/89.png",
+      "status": 200,
+      "bytes": 153424,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 16:18:11 GMT",
+      "file": "89.png",
+      "sha256": "05e06b74f9dcf6d029518ca5d9ee49f84979d87753e4720d465c73af881afe9b"
+    },
+    {
+      "url": "http://www.svr-mos.ru/22.png",
+      "status": 200,
+      "bytes": 80683,
+      "content_type": "image/png",
+      "last_modified": "Sat, 21 Feb 2026 14:54:01 GMT",
+      "file": "22.png",
+      "sha256": "5b297af1a819d4f40f8f4e05ea25bacd8258a1edca0da9539406a01c9ad8353e"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Background/Plan11.png",
+      "status": 200,
+      "bytes": 15386,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 19:57:47 GMT",
+      "file": "Background/Plan11.png",
+      "sha256": "46c0f008ac0cb5bbf96c8eccb81d4e172ef98e0cc87355de8dc118d74324ac9c"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_3.png",
+      "status": 200,
+      "bytes": 526762,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:31:23 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_3.png",
+      "sha256": "977662e850402e2eeac51c3b8f7fb4d615ada48c62535735fe6f2d423d79dee2"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_1.png",
+      "status": 200,
+      "bytes": 141029,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:31:23 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_1.png",
+      "sha256": "677a0d988f2cfe6cece0d76d1cdb351bd47f4cf934996bbd3ebefbc9b32724a8"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_8.png",
+      "status": 200,
+      "bytes": 2074792,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:31:24 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_8.png",
+      "sha256": "59af6042cdad6c50532292e74f5d27a02004f10947ea0de83b592c41d2e6b50e"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_2.png",
+      "status": 200,
+      "bytes": 1688096,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:33:10 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_2.png",
+      "sha256": "2100935c68532ac38a7e8a8e34d31c20d09c21aca923e3faf3ba21edccb6b552"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_6.png",
+      "status": 200,
+      "bytes": 416904,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:31:24 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_6.png",
+      "sha256": "3ad64b82f25fa3c5da9702ed06827e8c209f6abde9be3cd639d146cdd9df8f39"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_4.png",
+      "status": 200,
+      "bytes": 182975,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:31:24 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_4.png",
+      "sha256": "6900ec49e44574fe83d216a50c51f90691da3d2c1522f17695eac1374ef884f6"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_7.png",
+      "status": 200,
+      "bytes": 257940,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:31:24 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_7.png",
+      "sha256": "32481d9052c0dc3d356d11259a7a5ff40818117ead1d24a4a6bfdfff4c440bf6"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Ruzkom/Ruzkom1_5.png",
+      "status": 200,
+      "bytes": 470330,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:31:24 GMT",
+      "file": "Content/Ruzkom/Ruzkom1_5.png",
+      "sha256": "408836eb952c30f4a6df435c008e54ea56b75a0de880f4c4cf68de2343c81c1e"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%20Novoya%20MoskvaOS2/OS2_3.tif",
+      "status": 200,
+      "bytes": 961884,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 20:54:23 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS2/OS2_3.tif",
+      "sha256": "fbcce215aa39f09157305a1dfb100b79f1392a4e632ec2061c809f58dfba6bc8"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%20Novoya%20MoskvaOS2/OS2_7.tif",
+      "status": 200,
+      "bytes": 974112,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 20:54:23 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS2/OS2_7.tif",
+      "sha256": "663d3aebe6438a1f1485989516a1f229462eac7ac66949bf80b4db5dc9742afa"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%20Novoya%20MoskvaOS2/OS2_6.tif",
+      "status": 200,
+      "bytes": 931260,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 20:54:23 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS2/OS2_6.tif",
+      "sha256": "b50b7a3e3b361f84b03c097310347356b92093c981865c8fba9a61b5bcc6ab93"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%20Novoya%20MoskvaOS2/OS2_10.tif",
+      "status": 200,
+      "bytes": 1171048,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 20:54:24 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS2/OS2_10.tif",
+      "sha256": "08516134befd6b80370c4e3c8a8c91155393d843c288084552a3345dd4086118"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%20Novoya%20MoskvaOS2/OS2_2.tif",
+      "status": 200,
+      "bytes": 2185688,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 20:54:23 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS2/OS2_2.tif",
+      "sha256": "f141173387f7f8073556a4a839f2a7815140d80e834bac4afed3496aafb6a9a3"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%20Novoya%20MoskvaOS2/OS2_9.tif",
+      "status": 200,
+      "bytes": 915724,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 20:54:24 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS2/OS2_9.tif",
+      "sha256": "70df7279b3433ad4299b890a0330c262917d13099c6602b166cb120bcdd6676d"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_7.png",
+      "status": 200,
+      "bytes": 1961752,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:45:49 GMT",
+      "file": "Content/Elteza/Elt1_7.png",
+      "sha256": "6a2ef8a5bf9967b2646382b993cdc92b97ab22c2194acb0b3f76d0c737ece4eb"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%20Novoya%20MoskvaOS2/OS2_5.png",
+      "status": 200,
+      "bytes": 501081,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:54:24 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS2/OS2_5.png",
+      "sha256": "f2e1725ebff1b83a089ff88d7246c81d41d6ccf40660623cee488384de819a13"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3/OS3_3.tif",
+      "status": 200,
+      "bytes": 2247532,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 21:18:08 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS3/OS3_3.tif",
+      "sha256": "569a85a35e91aaae3bd933491e03cc45395d6f17c4cfa3c1386636708bc0718d"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3/OS3_11.tif",
+      "status": 200,
+      "bytes": 1182720,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 21:19:07 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS3/OS3_11.tif",
+      "sha256": "23132b13ecb03b3876510792c202c80bb49f4c6488912e6faaca2289d2d76cfc"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3/OS3_9.tif",
+      "status": 200,
+      "bytes": 1716692,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 21:18:08 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS3/OS3_9.tif",
+      "sha256": "78c4df9298bc0dca399a23f9d37b92248f90e864bf99f29ecb69b6868650edfb"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3/OS3_4.tif",
+      "status": 200,
+      "bytes": 1947964,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 21:18:08 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS3/OS3_4.tif",
+      "sha256": "64b07b6840a6f28028f3b7143a38a94d23e4a1759f178d5c925a18613b116a8d"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3/OS3_1.png",
+      "status": 200,
+      "bytes": 1907464,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 21:18:09 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS3/OS3_1.png",
+      "sha256": "3924ce3d6eebdedff015e033fcf6fbf8d15e69018e2f535b0427c999bf6e1bd2"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3/OS3_8.tif",
+      "status": 200,
+      "bytes": 1012232,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 21:18:09 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS3/OS3_8.tif",
+      "sha256": "0a164a7b47f1c95c620af53018981c4a7e15a71e52bad2f06dda4dd203a0c645"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/SVR%20Obiekt%C2%A0Novoya%20MoskvaOS3/OS3_5.tif",
+      "status": 200,
+      "bytes": 940440,
+      "content_type": "image/tiff",
+      "last_modified": "Sun, 20 Jul 2025 21:18:07 GMT",
+      "file": "Content/SVR Obiekt Novoya MoskvaOS3/OS3_5.tif",
+      "sha256": "8bbea39ee316258f277a5315fa1ed0f1075d6dba70c44c8531152593e14c0fad"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_6.png",
+      "status": 200,
+      "bytes": 173732,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:44:50 GMT",
+      "file": "Content/Elteza/Elt1_6.png",
+      "sha256": "29d022eac957e87e0e75f6b1c3a56e83cba1ead3285fc28c094f26869cdaa886"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_8.png",
+      "status": 200,
+      "bytes": 86864,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:44:51 GMT",
+      "file": "Content/Elteza/Elt1_8.png",
+      "sha256": "93facdd674dd377777d5ca14604a103b4cea55ad858cef0b9eabc1a4f60891b5"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_10.png",
+      "status": 200,
+      "bytes": 224971,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:44:51 GMT",
+      "file": "Content/Elteza/Elt1_10.png",
+      "sha256": "7887ed7f0a4b0a49eeab7f47feeb433a7e023d3b99e5415483b1528a15f169b3"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_2.png",
+      "status": 200,
+      "bytes": 479399,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:44:50 GMT",
+      "file": "Content/Elteza/Elt1_2.png",
+      "sha256": "f58996bc0e16f43690b66ad363705fa0bd7ce1e2c69c0780a13e09025ff17dc2"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_4.png",
+      "status": 200,
+      "bytes": 463067,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 22:46:43 GMT",
+      "file": "Content/Elteza/Elt1_4.png",
+      "sha256": "ef704f611d98a2844173e09c348d3e1b592982f91fb07c12feb38967608882f4"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_9.png",
+      "status": 200,
+      "bytes": 311711,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:44:51 GMT",
+      "file": "Content/Elteza/Elt1_9.png",
+      "sha256": "94e9bc018458af22f448faf329b0ccff88335852ae11a0b09717a67f31d5322a"
+    },
+    {
+      "url": "http://www.svr-mos.ru/Content/Elteza/Elt1_5.png",
+      "status": 200,
+      "bytes": 417707,
+      "content_type": "image/png",
+      "last_modified": "Sun, 20 Jul 2025 20:44:50 GMT",
+      "file": "Content/Elteza/Elt1_5.png",
+      "sha256": "d9d9c8f746ffd31ba85120bc949f9a4cd84cb154683efdd460c984af3b1ec329"
+    }
+  ]
+}
