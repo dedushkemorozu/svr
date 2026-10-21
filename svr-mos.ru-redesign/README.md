@@ -10,3 +10,10 @@
 - `backup-before-*.json` — резервные копии состояния сайта перед публикациями.
 
 На сайте сейчас опубликован пакет из `deploy/` (страницы 49–58, 140–144 — продукция).
+
+## Работа локально
+1. `git fetch origin main-kshiz8 && git checkout main-kshiz8`, затем в папке проекта: `sh setup_local.sh` (заменит пути облака на ваши и проверит python3, php, node, Pillow, playwright).
+2. Нужно: Python 3 + `pip install pillow playwright` + `playwright install chromium` (или `CHROME_PATH=/путь/к/chrome`), PHP 8.x с sqlite.
+3. Превью страниц без WordPress: `python3 tools/preview.py --content deploy/pages/49.html --template page-no-title --front --out out/49` (см. `tools/README.md`). Картинки в превью берутся из `svr-mos.ru-backup/` (нужен репозиторий целиком) по `media.json`.
+4. Локальный стенд WordPress 7.1.3 (для строгой валидации блоков, `tools/rebuild.sh`) в репозиторий не вошёл: поднимается из исходников WordPress (`git clone --branch 7.1.3 https://github.com/WordPress/WordPress`) + SQLite-плагин по `tools/wp_setup.php`/`tools/README.md`.
+5. Публикация на сайт — через WordPress-коннектор svr (Claude Code), порядок шагов в `deploy/README.md` и `deploy/manifest.json`.

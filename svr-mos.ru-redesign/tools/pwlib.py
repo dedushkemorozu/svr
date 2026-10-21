@@ -31,7 +31,9 @@ def route_site(context):
 
 # Браузер всегда запускать через этот прокси-«тупик»: любой запрос, не перехваченный маршрутом, падает локально
 # и не уходит в сеть; к локальному стенду route.fetch ходит напрямую (bypass).
-LAUNCH = {'executable_path': CHROME, 'proxy': {'server': 'http://127.0.0.1:9', 'bypass': '127.0.0.1,localhost'}}
+import os as _os
+CHROME = _os.environ.get('CHROME_PATH') or (CHROME if _os.path.exists(CHROME) else None)
+LAUNCH = {**({'executable_path': CHROME} if CHROME else {}), 'proxy': {'server': 'http://127.0.0.1:9', 'bypass': '127.0.0.1,localhost'}}
 
 
 def login(page):
