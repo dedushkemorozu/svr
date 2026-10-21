@@ -1,0 +1,39 @@
+<svg class="svr-dwg" viewBox="0 0 600 568" role="img" aria-labelledby="svrHeroT svrHeroD" focusable="false" xmlns="http://www.w3.org/2000/svg">
+<title id="svrHeroT">Капля-резервуар: вход сточных вод слева, выход чистой воды справа</title>
+<desc id="svrHeroD">Чертёж капли-резервуара. Слева сверху труба входа: турбулентный поток сточных вод сходится в ровную трубу и поступает в резервуар. Справа снизу труба выхода: чистая вода. Внутри резервуара вода с мягкой волной и пузырьки.</desc>
+<defs>
+<clipPath id="svrHeroIn"><path d="M300 123.8 L407.26 284.33 A129 129 0 1 1 192.74 284.33 Z"/></clipPath>
+<pattern id="svrHeroHatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#0EB8DA" stroke-opacity=".5"/></pattern>
+<mask id="svrHeroWall"><path d="M300 104 L416.41 278.22 A140 140 0 1 1 183.59 278.22 Z" fill="#fff"/><path d="M300 123.8 L407.26 284.33 A129 129 0 1 1 192.74 284.33 Z" fill="#000"/></mask>
+<linearGradient id="svrHeroWater" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0EB8DA" stop-opacity=".42"/><stop offset="1" stop-color="#0089BF" stop-opacity=".08"/></linearGradient>
+<linearGradient id="svrHeroBundle" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#3B5F8C" stop-opacity=".35"/><stop offset=".6" stop-color="#0EB8DA" stop-opacity=".7"/><stop offset="1" stop-color="#7FDCF2"/></linearGradient>
+<radialGradient id="svrHeroGlow"><stop offset="0" stop-color="#0EB8DA" stop-opacity="0.14"/><stop offset="1" stop-color="#0EB8DA" stop-opacity="0"/></radialGradient>
+</defs>
+<circle cx="300" cy="356" r="238" fill="url(#svrHeroGlow)"/>
+<circle cx="300" cy="360" r="159.6" fill="none" stroke="#0EB8DA" stroke-opacity=".3" stroke-dasharray="3 6"/>
+<g clip-path="url(#svrHeroIn)">
+<rect x="160" y="104" width="280" height="392" fill="#0B2540" fill-opacity=".55"/>
+<path fill="url(#svrHeroWater)" opacity=".55" d="M-200 314q30-7 60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0V516H-200Z"/>
+<g class="svr-dwg-wave"><path fill="url(#svrHeroWater)" d="M-200 322q30-8 60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0 t60 0V516H-200Z"/></g>
+<g class="svr-dwg-bubble" fill="none" stroke="#7FDCF2" stroke-opacity=".5">
+<circle cx="268" cy="440" r="3.4"/>
+<circle cx="338" cy="428" r="2.6"/>
+</g>
+</g>
+<rect x="148" y="92" width="304" height="416" fill="url(#svrHeroHatch)" mask="url(#svrHeroWall)"/>
+<path d="M300 104 L416.41 278.22 A140 140 0 1 1 183.59 278.22 Z" fill="none" stroke="#0EB8DA" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M300 123.8 L407.26 284.33 A129 129 0 1 1 192.74 284.33 Z" fill="none" stroke="#0EB8DA" stroke-opacity=".7" stroke-linejoin="round"/>
+<path d="M198.12 381.4A105 105 0 0 0 244.36 445.05" fill="none" stroke="#E8F1F8" stroke-opacity=".28" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(18 30)" fill="none" stroke="url(#svrHeroBundle)" stroke-linecap="round"><path d="M0 10C30 2 40 30 70 18S120 30 160 31"/><path d="M0 22C25 34 45 6 75 26S125 34 160 32"/><path d="M0 34C20 20 50 50 80 34S125 30 160 32"/><path d="M0 46C30 58 40 26 72 44S120 36 160 33"/><path d="M0 56C25 44 55 62 85 46S128 35 160 33"/><path d="M0 16C35 26 30 46 66 38S118 31 160 31.5"/><path d="M0 40C28 30 48 56 78 30S124 33 160 32.5"/></g>
+<path d="M178 62H300V104" fill="none" stroke="#0EB8DA" stroke-width="2"/>
+<path class="svr-dwg-flow" d="M178 62H300V104" fill="none" stroke="#E8F1F8" stroke-width="2" stroke-dasharray="6 10"/>
+<g stroke="#0EB8DA" stroke-width="1.5"><path d="M200.16 54L224.16 70V54L200.16 70Z" fill="#071B2F" stroke-linejoin="round"/><path d="M212.16 54V36M204.16 36H220.16" fill="none"/></g>
+<path class="svr-dwg-arrow" d="M258.52 55l14 7-14 7z" fill="#0EB8DA"/>
+<text class="svr-dwg-t" x="18" y="20">Вход · сточные воды</text>
+<path d="M300 496V524H572" fill="none" stroke="#0EB8DA" stroke-width="2"/>
+<path class="svr-dwg-flow" d="M300 496V524H572" fill="none" stroke="#E8F1F8" stroke-width="2" stroke-dasharray="6 10"/>
+<path d="M572 514V534" stroke="#0EB8DA" stroke-width="2"/>
+<g stroke="#0EB8DA" stroke-width="1.5"><path d="M410.4 516L434.4 532V516L410.4 532Z" fill="#071B2F" stroke-linejoin="round"/><path d="M422.4 516V498M414.4 498H430.4" fill="none"/></g>
+<path class="svr-dwg-arrow" d="M517.6 517l14 7-14 7z" fill="#0EB8DA"/>
+<text class="svr-dwg-t" x="572" y="556" text-anchor="end">Выход · чистая вода</text>
+</svg>

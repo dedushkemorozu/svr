@@ -1,0 +1,5 @@
+<svg class="svr-flow__bundle" viewBox="0 0 160 64" fill="none" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="svrFlowBundle" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#3B5F8C" stop-opacity=".35"/><stop offset=".6" stop-color="#0EB8DA" stop-opacity=".7"/><stop offset="1" stop-color="#7FDCF2"/></linearGradient></defs>
+<g stroke="url(#svrFlowBundle)" stroke-width="1" stroke-linecap="round">
+<path d="M0 10C30 2 40 30 70 18S120 30 160 31"/><path d="M0 22C25 34 45 6 75 26S125 34 160 32"/><path d="M0 34C20 20 50 50 80 34S125 30 160 32"/><path d="M0 46C30 58 40 26 72 44S120 36 160 33"/><path d="M0 56C25 44 55 62 85 46S128 35 160 33"/><path d="M0 16C35 26 30 46 66 38S118 31 160 31.5"/><path d="M0 40C28 30 48 56 78 30S124 33 160 32.5"/>
+</g></svg>

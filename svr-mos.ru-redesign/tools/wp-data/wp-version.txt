@@ -1,0 +1,2 @@
+WordPress 7.1.3
+Twenty Twenty-Five 1.5
